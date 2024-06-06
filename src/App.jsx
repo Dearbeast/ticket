@@ -77,7 +77,7 @@ function App() {
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/woman.jpeg" alt="nick" style={{
+                  <img src="/Olivia_R.webp" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
@@ -127,7 +127,7 @@ Santiago Bernabéu Stadium , Madrid.
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/woman.jpeg" alt="nick" style={{
+                  <img src="/Olivia_R.webp" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
@@ -177,7 +177,7 @@ Santiago Bernabéu Stadium , Madrid.
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/woman.jpeg" alt="nick" style={{
+                  <img src="/Olivia_R.webp" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
@@ -227,7 +227,7 @@ Santiago Bernabéu Stadium , Madrid.
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/woman.jpeg" alt="nick" style={{
+                  <img src="/Olivia_R.webp" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
@@ -277,7 +277,7 @@ Santiago Bernabéu Stadium , Madrid.
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/woman.jpeg" alt="nick" style={{
+                  <img src="/Olivia_R.webp" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
@@ -327,7 +327,7 @@ Santiago Bernabéu Stadium , Madrid.
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/woman.jpeg" alt="nick" style={{
+                  <img src="/Olivia_R.webp" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
@@ -379,7 +379,7 @@ Santiago Bernabéu Stadium , Madrid.
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/woman.jpeg" alt="nick" style={{
+                  <img src="/Olivia_R.webp" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
@@ -429,7 +429,7 @@ Santiago Bernabéu Stadium , Madrid.
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/woman.jpeg" alt="nick" style={{
+                  <img src="/Olivia_R.webp" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
@@ -479,7 +479,7 @@ Santiago Bernabéu Stadium , Madrid.
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/woman.jpeg" alt="nick" style={{
+                  <img src="/Olivia_R.webp" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
