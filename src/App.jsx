@@ -511,6 +511,56 @@ Santiago Bernabéu Stadium , Madrid.
                 <p><i>ticketmaster.verified</i></p>
               </div>
             </div>
+            <div className="card swiper-slide">
+              <div className="header-content">
+                <h4>Standard Tickets</h4>
+              </div>
+              <div className="seat-content">
+                <div className="row">
+                  <span className="seat">SEC</span>
+                  <span className="seat">Fila</span>
+                  <span className="seat">Asiento</span>
+                </div>
+                <div className="row1">
+                  <span className="seat"> 104</span>
+                  <span className="seat"> 4</span>
+                  <span className="seat"> 10</span>
+                </div>
+              </div>
+              <div className="image-content">
+                <div className="card-img">
+                  <img src="/Olivia_R.webp" alt="nick" style={{
+                    width: "350px",
+                    height: "350px",
+                    objectFit: "fill"
+                  }} />
+                  <div className="overlay"></div>
+                  <div className="service-desc">
+                    <h3>The Eras Tour<br /></h3>
+
+                    <p>
+                      Thu, Miè, 30 may 2024, 20:00
+Santiago Bernabéu Stadium , Madrid.
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div className="card-content">
+                <h2 className="name">sección 104</h2>
+                <button className="btn-apple">
+                  <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
+                  <span>Add to Apple Wallet</span>
+                </button>
+                <div className="detail">
+                  <a href="">Mostrar código de barras</a>
+                  <a href="">Detalles del billete</a>
+                </div>
+              </div>
+              <div className="footer-content">
+                <img src="/euZet6wt4nPl.png" alt="" className="love" />
+                <p><i>ticketmaster.verified</i></p>
+              </div>
+            </div>
           </div>
         </div>
         <div className="swiper-button-next swiper-navBtn" ref={sliderNextElement}></div>
