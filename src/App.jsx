@@ -66,8 +66,8 @@ function App() {
               <div className="seat-content">
                 <div className="row">
                   <span className="seat">SEC</span>
-                  <span className="seat">Fila</span>
-                  <span className="seat">Asiento</span>
+                  <span className="seat">ROW</span>
+                  <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
                   <span className="seat"> 104</span>
@@ -116,8 +116,8 @@ Santiago Bernabéu Stadium , Madrid.
               <div className="seat-content">
                 <div className="row">
                   <span className="seat">SEC</span>
-                  <span className="seat">Fila</span>
-                  <span className="seat">Asiento</span>
+                  <span className="seat">ROW</span>
+                  <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
                   <span className="seat"> 104</span>
@@ -166,8 +166,8 @@ Santiago Bernabéu Stadium , Madrid.
               <div className="seat-content">
                 <div className="row">
                   <span className="seat">SEC</span>
-                  <span className="seat">Fila</span>
-                  <span className="seat">Asiento</span>
+                  <span className="seat">ROW</span>
+                  <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
                   <span className="seat"> 104</span>
@@ -216,8 +216,8 @@ Santiago Bernabéu Stadium , Madrid.
               <div className="seat-content">
                 <div className="row">
                   <span className="seat">SEC</span>
-                  <span className="seat">Fila</span>
-                  <span className="seat">Asiento</span>
+                  <span className="seat">ROW</span>
+                  <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
                   <span className="seat"> 104</span>
@@ -266,8 +266,8 @@ Santiago Bernabéu Stadium , Madrid.
               <div className="seat-content">
                 <div className="row">
                   <span className="seat">SEC</span>
-                  <span className="seat">Fila</span>
-                  <span className="seat">Asiento</span>
+                  <span className="seat">ROW</span>
+                  <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
                   <span className="seat"> 104</span>
@@ -316,8 +316,8 @@ Santiago Bernabéu Stadium , Madrid.
               <div className="seat-content">
                 <div className="row">
                   <span className="seat">SEC</span>
-                  <span className="seat">Fila</span>
-                  <span className="seat">Asiento</span>
+                  <span className="seat">ROW</span>
+                  <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
                   <span className="seat"> 104</span>
@@ -368,8 +368,8 @@ Santiago Bernabéu Stadium , Madrid.
               <div className="seat-content">
                 <div className="row">
                   <span className="seat">SEC</span>
-                  <span className="seat">Fila</span>
-                  <span className="seat">Asiento</span>
+                  <span className="seat">ROW</span>
+                  <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
                   <span className="seat"> 104</span>
@@ -418,8 +418,8 @@ Santiago Bernabéu Stadium , Madrid.
               <div className="seat-content">
                 <div className="row">
                   <span className="seat">SEC</span>
-                  <span className="seat">Fila</span>
-                  <span className="seat">Asiento</span>
+                  <span className="seat">ROW</span>
+                  <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
                   <span className="seat"> 104</span>
@@ -468,8 +468,8 @@ Santiago Bernabéu Stadium , Madrid.
               <div className="seat-content">
                 <div className="row">
                   <span className="seat">SEC</span>
-                  <span className="seat">Fila</span>
-                  <span className="seat">Asiento</span>
+                  <span className="seat">ROW</span>
+                  <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
                   <span className="seat"> 104</span>
@@ -518,13 +518,13 @@ Santiago Bernabéu Stadium , Madrid.
               <div className="seat-content">
                 <div className="row">
                   <span className="seat">SEC</span>
-                  <span className="seat">Fila</span>
-                  <span className="seat">Asiento</span>
+                  <span className="seat">ROW</span>
+                  <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
                   <span className="seat"> 104</span>
                   <span className="seat"> 4</span>
-                  <span className="seat"> 10</span>
+                  <span className="seat"> 9</span>
                 </div>
               </div>
               <div className="image-content">
