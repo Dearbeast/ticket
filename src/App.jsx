@@ -93,7 +93,7 @@ function App() {
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">sección 126</h2>
+                <h2 className="name">Section 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -142,7 +142,7 @@ function App() {
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">sección 126</h2>
+                <h2 className="name">Section 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -191,7 +191,7 @@ function App() {
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">sección 126</h2>
+                <h2 className="name">Section 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -240,7 +240,7 @@ function App() {
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">sección 126</h2>
+                <h2 className="name">Section 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -289,7 +289,7 @@ function App() {
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">sección 126</h2>
+                <h2 className="name">Section 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -338,7 +338,7 @@ function App() {
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">sección 126</h2>
+                <h2 className="name">Section 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -389,7 +389,7 @@ function App() {
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">sección 126</h2>
+                <h2 className="name">Section 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -438,7 +438,7 @@ function App() {
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">sección 126</h2>
+                <h2 className="name">Section 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -487,7 +487,7 @@ function App() {
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">sección 126</h2>
+                <h2 className="name">Section 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -536,7 +536,7 @@ function App() {
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">sección 126</h2>
+                <h2 className="name">Section 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
