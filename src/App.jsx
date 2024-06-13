@@ -55,7 +55,7 @@ function App() {
       <div className="slide-container swiper">
         <div className="intro">
           <img src="/kspxFuslACBP.png" alt="" className="close" />
-          <h1>Mis entradas</h1>
+          <h1>My Tickets</h1>
         </div>
         <div className="slide-content" ref={slideContent}>
           <div className="card-wrapper swiper-wrapper">
@@ -70,14 +70,14 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat"> 104</span>
-                  <span className="seat"> 4</span>
+                  <span className="seat"> 126</span>
+                  <span className="seat"> 42</span>
                   <span className="seat"> 6</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/Olivia_R.webp" alt="nick" style={{
+                  <img src="/Taylor.jpeg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
@@ -87,21 +87,20 @@ function App() {
                     <h3>The Eras Tour <br /></h3>
 
                     <p>
-                      Thu, Miè, 30 may 2024, 20:00
-Santiago Bernabéu Stadium , Madrid.
+                      Fri, 28 Jun 2024, 17:00 Aviva Stadium, Dublin
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">sección 104</h2>
+                <h2 className="name">sección 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
                 </button>
                 <div className="detail">
-                  <a href="">Mostrar código de barras</a>
-                  <a href="">Detalles del billete</a>
+                  <a href="">Show barcode</a>
+                  <a href="">Ticket details</a>
                 </div>
               </div>
               <div className="footer-content">
@@ -120,14 +119,14 @@ Santiago Bernabéu Stadium , Madrid.
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat"> 104</span>
-                  <span className="seat"> 4</span>
+                  <span className="seat"> 126</span>
+                  <span className="seat"> 42</span>
                   <span className="seat"> 7</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/Olivia_R.webp" alt="nick" style={{
+                  <img src="/Taylor.jpeg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
@@ -137,21 +136,20 @@ Santiago Bernabéu Stadium , Madrid.
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Thu, Miè, 30 may 2024, 20:00
-Santiago Bernabéu Stadium , Madrid.
+                      Fri, 28 Jun 2024, 17:00 Aviva Stadium, Dublin
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">sección 104</h2>
+                <h2 className="name">sección 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
                 </button>
                 <div className="detail">
-                  <a href="">Mostrar código de barras</a>
-                  <a href="">Detalles del billete</a>
+                  <a href="">Show barcode</a>
+                  <a href="">Ticket details</a>
                 </div>
               </div>
               <div className="footer-content">
@@ -170,14 +168,14 @@ Santiago Bernabéu Stadium , Madrid.
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat"> 104</span>
-                  <span className="seat"> 4</span>
+                  <span className="seat"> 126</span>
+                  <span className="seat"> 42</span>
                   <span className="seat"> 8</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/Olivia_R.webp" alt="nick" style={{
+                  <img src="/Taylor.jpeg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
@@ -187,21 +185,20 @@ Santiago Bernabéu Stadium , Madrid.
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Thu, Miè, 30 may 2024, 20:00
-Santiago Bernabéu Stadium , Madrid.
+                      Fri, 28 Jun 2024, 17:00 Aviva Stadium, Dublin
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">sección 104</h2>
+                <h2 className="name">sección 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
                 </button>
                 <div className="detail">
-                  <a href="">Mostrar código de barras</a>
-                  <a href="">Detalles del billete</a>
+                  <a href="">Show barcode</a>
+                  <a href="">Ticket details</a>
                 </div>
               </div>
               <div className="footer-content">
@@ -220,14 +217,14 @@ Santiago Bernabéu Stadium , Madrid.
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat"> 104</span>
-                  <span className="seat"> 4</span>
+                  <span className="seat"> 126</span>
+                  <span className="seat"> 42</span>
                   <span className="seat"> 6</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/Olivia_R.webp" alt="nick" style={{
+                  <img src="/Taylor.jpeg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
@@ -237,21 +234,20 @@ Santiago Bernabéu Stadium , Madrid.
                     <h3>The Eras Tour <br /></h3>
 
                     <p>
-                      Thu, Miè, 30 may 2024, 20:00
-Santiago Bernabéu Stadium , Madrid.
+                      Fri, 28 Jun 2024, 17:00 Aviva Stadium, Dublin
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">sección 104</h2>
+                <h2 className="name">sección 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
                 </button>
                 <div className="detail">
-                  <a href="">Mostrar código de barras</a>
-                  <a href="">Detalles del billete</a>
+                  <a href="">Show barcode</a>
+                  <a href="">Ticket details</a>
                 </div>
               </div>
               <div className="footer-content">
@@ -270,14 +266,14 @@ Santiago Bernabéu Stadium , Madrid.
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat"> 104</span>
-                  <span className="seat"> 4</span>
+                  <span className="seat"> 126</span>
+                  <span className="seat"> 42</span>
                   <span className="seat"> 7</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/Olivia_R.webp" alt="nick" style={{
+                  <img src="/Taylor.jpeg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
@@ -287,21 +283,20 @@ Santiago Bernabéu Stadium , Madrid.
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Thu, Miè, 30 may 2024, 20:00
-Santiago Bernabéu Stadium , Madrid.
+                      Fri, 28 Jun 2024, 17:00 Aviva Stadium, Dublin
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">sección 104</h2>
+                <h2 className="name">sección 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
                 </button>
                 <div className="detail">
-                  <a href="">Mostrar código de barras</a>
-                  <a href="">Detalles del billete</a>
+                  <a href="">Show barcode</a>
+                  <a href="">Ticket details</a>
                 </div>
               </div>
               <div className="footer-content">
@@ -320,14 +315,14 @@ Santiago Bernabéu Stadium , Madrid.
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat"> 104</span>
-                  <span className="seat"> 4</span>
+                  <span className="seat"> 126</span>
+                  <span className="seat"> 42</span>
                   <span className="seat"> 8</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/Olivia_R.webp" alt="nick" style={{
+                  <img src="/Taylor.jpeg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
@@ -337,21 +332,20 @@ Santiago Bernabéu Stadium , Madrid.
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Thu, Miè, 30 may 2024, 20:00
-Santiago Bernabéu Stadium , Madrid.
+                      Fri, 28 Jun 2024, 17:00 Aviva Stadium, Dublin
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">sección 104</h2>
+                <h2 className="name">sección 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
                 </button>
                 <div className="detail">
-                  <a href="">Mostrar código de barras</a>
-                  <a href="">Detalles del billete</a>
+                  <a href="">Show barcode</a>
+                  <a href="">Ticket details</a>
                 </div>
               </div>
               <div className="footer-content">
@@ -372,14 +366,14 @@ Santiago Bernabéu Stadium , Madrid.
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat"> 104</span>
-                  <span className="seat"> 4</span>
+                  <span className="seat"> 126</span>
+                  <span className="seat"> 42</span>
                   <span className="seat"> 6</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/Olivia_R.webp" alt="nick" style={{
+                  <img src="/Taylor.jpeg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
@@ -389,21 +383,20 @@ Santiago Bernabéu Stadium , Madrid.
                     <h3>The Eras Tour <br /></h3>
 
                     <p>
-                      Thu, Miè, 30 may 2024, 20:00
-Santiago Bernabéu Stadium , Madrid.
+                      Fri, 28 Jun 2024, 17:00 Aviva Stadium, Dublin
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">sección 104</h2>
+                <h2 className="name">sección 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
                 </button>
                 <div className="detail">
-                  <a href="">Mostrar código de barras</a>
-                  <a href="">Detalles del billete</a>
+                  <a href="">Show barcode</a>
+                  <a href="">Ticket details</a>
                 </div>
               </div>
               <div className="footer-content">
@@ -422,14 +415,14 @@ Santiago Bernabéu Stadium , Madrid.
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat"> 104</span>
-                  <span className="seat"> 4</span>
+                  <span className="seat"> 126</span>
+                  <span className="seat"> 42</span>
                   <span className="seat"> 7</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/Olivia_R.webp" alt="nick" style={{
+                  <img src="/Taylor.jpeg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
@@ -439,21 +432,20 @@ Santiago Bernabéu Stadium , Madrid.
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Thu, Miè, 30 may 2024, 20:00
-Santiago Bernabéu Stadium , Madrid.
+                      Fri, 28 Jun 2024, 17:00 Aviva Stadium, Dublin
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">sección 104</h2>
+                <h2 className="name">sección 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
                 </button>
                 <div className="detail">
-                  <a href="">Mostrar código de barras</a>
-                  <a href="">Detalles del billete</a>
+                  <a href="">Show barcode</a>
+                  <a href="">Ticket details</a>
                 </div>
               </div>
               <div className="footer-content">
@@ -472,14 +464,14 @@ Santiago Bernabéu Stadium , Madrid.
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat"> 104</span>
-                  <span className="seat"> 4</span>
+                  <span className="seat"> 126</span>
+                  <span className="seat"> 42</span>
                   <span className="seat"> 8</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/Olivia_R.webp" alt="nick" style={{
+                  <img src="/Taylor.jpeg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
@@ -489,21 +481,20 @@ Santiago Bernabéu Stadium , Madrid.
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Thu, Miè, 30 may 2024, 20:00
-Santiago Bernabéu Stadium , Madrid.
+                      Fri, 28 Jun 2024, 17:00 Aviva Stadium, Dublin
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">sección 104</h2>
+                <h2 className="name">sección 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
                 </button>
                 <div className="detail">
-                  <a href="">Mostrar código de barras</a>
-                  <a href="">Detalles del billete</a>
+                  <a href="">Show barcode</a>
+                  <a href="">Ticket details</a>
                 </div>
               </div>
               <div className="footer-content">
@@ -522,14 +513,14 @@ Santiago Bernabéu Stadium , Madrid.
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat"> 104</span>
-                  <span className="seat"> 4</span>
+                  <span className="seat"> 126</span>
+                  <span className="seat"> 42</span>
                   <span className="seat"> 9</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/Olivia_R.webp" alt="nick" style={{
+                  <img src="/Taylor.jpeg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
@@ -539,21 +530,20 @@ Santiago Bernabéu Stadium , Madrid.
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Thu, Miè, 30 may 2024, 20:00
-Santiago Bernabéu Stadium , Madrid.
+                      Fri, 28 Jun 2024, 17:00 Aviva Stadium, Dublin
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">sección 104</h2>
+                <h2 className="name">sección 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
                 </button>
                 <div className="detail">
-                  <a href="">Mostrar código de barras</a>
-                  <a href="">Detalles del billete</a>
+                  <a href="">Show barcode</a>
+                  <a href="">Ticket details</a>
                 </div>
               </div>
               <div className="footer-content">
@@ -568,8 +558,8 @@ Santiago Bernabéu Stadium , Madrid.
         <div className="swiper-pagination swiper-navBtn1" ref={sliderPagination}></div>
 
         <div className="banner-btn">
-          <a href=""> <span></span>Transferir</a>
-          <a href=""> <span></span>Vender</a>
+          <a href=""> <span></span>Transfer</a>
+          <a href=""> <span></span>Sell</a>
         </div>
       </div>
     </>
