@@ -71,7 +71,7 @@ function App() {
                 </div>
                 <div className="row1">
                   <span className="seat"> 126</span>
-                  <span className="seat"> 42</span>
+                  <span className="seat"> 18</span>
                   <span className="seat"> 6</span>
                 </div>
               </div>
@@ -87,7 +87,7 @@ function App() {
                     <h3>The Eras Tour <br /></h3>
 
                     <p>
-                      Fri, Jun 28, 5:00pm Aviva Stadium, Dublin.
+                      Sun, Jun 23, 6:45pm Wembley Stadium, London, United Kingdom
                     </p>
                   </div>
                 </div>
@@ -120,7 +120,7 @@ function App() {
                 </div>
                 <div className="row1">
                   <span className="seat"> 126</span>
-                  <span className="seat"> 42</span>
+                  <span className="seat"> 18</span>
                   <span className="seat"> 7</span>
                 </div>
               </div>
@@ -136,7 +136,7 @@ function App() {
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Fri, Jun 28, 5:00pm Aviva Stadium, Dublin.
+                      Sun, Jun 23, 6:45pm Wembley Stadium, London, United Kingdom
                     </p>
                   </div>
                 </div>
@@ -169,7 +169,7 @@ function App() {
                 </div>
                 <div className="row1">
                   <span className="seat"> 126</span>
-                  <span className="seat"> 42</span>
+                  <span className="seat"> 18</span>
                   <span className="seat"> 8</span>
                 </div>
               </div>
@@ -185,7 +185,7 @@ function App() {
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Fri, Jun 28, 5:00pm Aviva Stadium, Dublin.
+                      Sun, Jun 23, 6:45pm Wembley Stadium, London, United Kingdom
                     </p>
                   </div>
                 </div>
@@ -218,7 +218,7 @@ function App() {
                 </div>
                 <div className="row1">
                   <span className="seat"> 126</span>
-                  <span className="seat"> 42</span>
+                  <span className="seat"> 18</span>
                   <span className="seat"> 6</span>
                 </div>
               </div>
@@ -234,7 +234,7 @@ function App() {
                     <h3>The Eras Tour <br /></h3>
 
                     <p>
-                      Fri, Jun 28, 5:00pm Aviva Stadium, Dublin.
+                      Sun, Jun 23, 6:45pm Wembley Stadium, London, United Kingdom
                     </p>
                   </div>
                 </div>
@@ -267,7 +267,7 @@ function App() {
                 </div>
                 <div className="row1">
                   <span className="seat"> 126</span>
-                  <span className="seat"> 42</span>
+                  <span className="seat"> 18</span>
                   <span className="seat"> 7</span>
                 </div>
               </div>
@@ -283,7 +283,7 @@ function App() {
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Fri, Jun 28, 5:00pm Aviva Stadium, Dublin.
+                      Sun, Jun 23, 6:45pm Wembley Stadium, London, United Kingdom
                     </p>
                   </div>
                 </div>
@@ -316,7 +316,7 @@ function App() {
                 </div>
                 <div className="row1">
                   <span className="seat"> 126</span>
-                  <span className="seat"> 42</span>
+                  <span className="seat"> 18</span>
                   <span className="seat"> 8</span>
                 </div>
               </div>
@@ -332,7 +332,7 @@ function App() {
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Fri, Jun 28, 5:00pm Aviva Stadium, Dublin.
+                      Sun, Jun 23, 6:45pm Wembley Stadium, London, United Kingdom
                     </p>
                   </div>
                 </div>
@@ -367,7 +367,7 @@ function App() {
                 </div>
                 <div className="row1">
                   <span className="seat"> 126</span>
-                  <span className="seat"> 42</span>
+                  <span className="seat"> 18</span>
                   <span className="seat"> 6</span>
                 </div>
               </div>
@@ -383,7 +383,7 @@ function App() {
                     <h3>The Eras Tour <br /></h3>
 
                     <p>
-                      Fri, Jun 28, 5:00pm Aviva Stadium, Dublin.
+                      Sun, Jun 23, 6:45pm Wembley Stadium, London, United Kingdom
                     </p>
                   </div>
                 </div>
@@ -416,7 +416,7 @@ function App() {
                 </div>
                 <div className="row1">
                   <span className="seat"> 126</span>
-                  <span className="seat"> 42</span>
+                  <span className="seat"> 18</span>
                   <span className="seat"> 7</span>
                 </div>
               </div>
@@ -432,7 +432,7 @@ function App() {
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Fri, Jun 28, 5:00pm Aviva Stadium, Dublin.
+                      Sun, Jun 23, 6:45pm Wembley Stadium, London, United Kingdom
                     </p>
                   </div>
                 </div>
@@ -465,7 +465,7 @@ function App() {
                 </div>
                 <div className="row1">
                   <span className="seat"> 126</span>
-                  <span className="seat"> 42</span>
+                  <span className="seat"> 18</span>
                   <span className="seat"> 8</span>
                 </div>
               </div>
@@ -481,7 +481,7 @@ function App() {
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Fri, Jun 28, 5:00pm Aviva Stadium, Dublin.
+                      Sun, Jun 23, 6:45pm Wembley Stadium, London, United Kingdom
                     </p>
                   </div>
                 </div>
@@ -514,7 +514,7 @@ function App() {
                 </div>
                 <div className="row1">
                   <span className="seat"> 126</span>
-                  <span className="seat"> 42</span>
+                  <span className="seat"> 18</span>
                   <span className="seat"> 9</span>
                 </div>
               </div>
@@ -530,7 +530,7 @@ function App() {
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Fri, Jun 28, 5:00pm Aviva Stadium, Dublin.
+                      Sun, Jun 23, 6:45pm Wembley Stadium, London, United Kingdom
                     </p>
                   </div>
                 </div>
