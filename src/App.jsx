@@ -70,8 +70,8 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">245</span>
-                  <span className="seat"> 11</span>
+                  <span className="seat">126</span>
+                  <span className="seat">40</span>
                   <span className="seat"> 6</span>
                 </div>
               </div>
@@ -93,7 +93,7 @@ function App() {
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 245</h2>
+                <h2 className="name">Section 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -119,8 +119,8 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">245</span>
-                  <span className="seat"> 11</span>
+                  <span className="seat">126</span>
+                  <span className="seat">40</span>
                   <span className="seat"> 7</span>
                 </div>
               </div>
@@ -142,7 +142,7 @@ function App() {
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 245</h2>
+                <h2 className="name">Section 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -168,8 +168,8 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">245</span>
-                  <span className="seat"> 11</span>
+                  <span className="seat">126</span>
+                  <span className="seat">40</span>
                   <span className="seat"> 8</span>
                 </div>
               </div>
@@ -191,7 +191,7 @@ function App() {
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 245</h2>
+                <h2 className="name">Section 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -217,8 +217,8 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">245</span>
-                  <span className="seat"> 11</span>
+                  <span className="seat">126</span>
+                  <span className="seat">40</span>
                   <span className="seat"> 6</span>
                 </div>
               </div>
@@ -240,7 +240,7 @@ function App() {
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 245</h2>
+                <h2 className="name">Section 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -266,8 +266,8 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">245</span>
-                  <span className="seat"> 11</span>
+                  <span className="seat">126</span>
+                  <span className="seat">40</span>
                   <span className="seat"> 7</span>
                 </div>
               </div>
@@ -289,7 +289,7 @@ function App() {
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 245</h2>
+                <h2 className="name">Section 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -315,8 +315,8 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">245</span>
-                  <span className="seat"> 11</span>
+                  <span className="seat">126</span>
+                  <span className="seat">40</span>
                   <span className="seat"> 8</span>
                 </div>
               </div>
@@ -338,7 +338,7 @@ function App() {
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 245</h2>
+                <h2 className="name">Section 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -366,8 +366,8 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">245</span>
-                  <span className="seat"> 11</span>
+                  <span className="seat">126</span>
+                  <span className="seat">40</span>
                   <span className="seat"> 6</span>
                 </div>
               </div>
@@ -389,7 +389,7 @@ function App() {
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 245</h2>
+                <h2 className="name">Section 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -415,8 +415,8 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">245</span>
-                  <span className="seat"> 11</span>
+                  <span className="seat">126</span>
+                  <span className="seat">40</span>
                   <span className="seat"> 7</span>
                 </div>
               </div>
@@ -438,7 +438,7 @@ function App() {
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 245</h2>
+                <h2 className="name">Section 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -464,8 +464,8 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">245</span>
-                  <span className="seat"> 11</span>
+                  <span className="seat">126</span>
+                  <span className="seat">40</span>
                   <span className="seat"> 8</span>
                 </div>
               </div>
@@ -487,7 +487,7 @@ function App() {
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 245</h2>
+                <h2 className="name">Section 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -513,8 +513,8 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">245</span>
-                  <span className="seat"> 11</span>
+                  <span className="seat">126</span>
+                  <span className="seat">40</span>
                   <span className="seat"> 9</span>
                 </div>
               </div>
@@ -536,7 +536,7 @@ function App() {
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 245</h2>
+                <h2 className="name">Section 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
