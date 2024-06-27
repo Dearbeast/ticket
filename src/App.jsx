@@ -87,7 +87,7 @@ function App() {
                     <h3>The Eras Tour <br /></h3>
 
                     <p>
-                      Sat, Jun 22 7:30PM Wembley Stadium, London, United Kingdom
+                      Fri, Jun 28 5:00PM Aviva Stadium, Dublin 
                     </p>
                   </div>
                 </div>
@@ -136,7 +136,7 @@ function App() {
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Sat, Jun 22 7:30PM Wembley Stadium, London, United Kingdom
+                      Fri, Jun 28 5:00PM Aviva Stadium, Dublin 
                     </p>
                   </div>
                 </div>
@@ -185,7 +185,7 @@ function App() {
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Sat, Jun 22 7:30PM Wembley Stadium, London, United Kingdom
+                      Fri, Jun 28 5:00PM Aviva Stadium, Dublin 
                     </p>
                   </div>
                 </div>
@@ -234,7 +234,7 @@ function App() {
                     <h3>The Eras Tour <br /></h3>
 
                     <p>
-                      Sat, Jun 22 7:30PM Wembley Stadium, London, United Kingdom
+                      Fri, Jun 28 5:00PM Aviva Stadium, Dublin 
                     </p>
                   </div>
                 </div>
@@ -283,7 +283,7 @@ function App() {
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Sat, Jun 22 7:30PM Wembley Stadium, London, United Kingdom
+                      Fri, Jun 28 5:00PM Aviva Stadium, Dublin 
                     </p>
                   </div>
                 </div>
@@ -332,7 +332,7 @@ function App() {
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Sat, Jun 22 7:30PM Wembley Stadium, London, United Kingdom
+                      Fri, Jun 28 5:00PM Aviva Stadium, Dublin 
                     </p>
                   </div>
                 </div>
@@ -383,7 +383,7 @@ function App() {
                     <h3>The Eras Tour <br /></h3>
 
                     <p>
-                      Sat, Jun 22 7:30PM Wembley Stadium, London, United Kingdom
+                      Fri, Jun 28 5:00PM Aviva Stadium, Dublin 
                     </p>
                   </div>
                 </div>
@@ -432,7 +432,7 @@ function App() {
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Sat, Jun 22 7:30PM Wembley Stadium, London, United Kingdom
+                      Fri, Jun 28 5:00PM Aviva Stadium, Dublin 
                     </p>
                   </div>
                 </div>
@@ -481,7 +481,7 @@ function App() {
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Sat, Jun 22 7:30PM Wembley Stadium, London, United Kingdom
+                      Fri, Jun 28 5:00PM Aviva Stadium, Dublin 
                     </p>
                   </div>
                 </div>
@@ -530,7 +530,7 @@ function App() {
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Sat, Jun 22 7:30PM Wembley Stadium, London, United Kingdom
+                      Fri, Jun 28 5:00PM Aviva Stadium, Dublin 
                     </p>
                   </div>
                 </div>
