@@ -558,8 +558,8 @@ function App() {
         <div className="swiper-pagination swiper-navBtn1" ref={sliderPagination}></div>
 
         <div className="banner-btn">
-          <a href=""> <span></span>Transfer</a>
-          <a href=""> <span></span>Sell</a>
+          <a href=""> <span></span>Overdracht</a>
+          <a href=""> <span></span>Verkopen</a>
         </div>
       </div>
     </>
