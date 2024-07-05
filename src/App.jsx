@@ -55,23 +55,23 @@ function App() {
       <div className="slide-container swiper">
         <div className="intro">
           <img src="/kspxFuslACBP.png" alt="" className="close" />
-          <h1>My Tickets</h1>
+          <h1>Mijn kaartjes</h1>
         </div>
         <div className="slide-content" ref={slideContent}>
           <div className="card-wrapper swiper-wrapper">
             <div className="card swiper-slide">
               <div className="header-content">
-                <h4>Standard Tickets</h4>
+                <h4>Standaard kaartjes</h4>
               </div>
               <div className="seat-content">
                 <div className="row">
                   <span className="seat">SEC</span>
-                  <span className="seat">ROW</span>
-                  <span className="seat">SEAT</span>
+                  <span className="seat">RIJ</span>
+                  <span className="seat">ZITPLAATS</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">126</span>
-                  <span className="seat">40</span>
+                  <span className="seat">119</span>
+                  <span className="seat">10</span>
                   <span className="seat"> 6</span>
                 </div>
               </div>
@@ -87,20 +87,20 @@ function App() {
                     <h3>The Eras Tour <br /></h3>
 
                     <p>
-                      Fri, Jun 28 5:00PM Aviva Stadium, Dublin 
+                      Vr 5 jul 2024, 18:00 Johan Cruijff ArenA, Amsterdam 
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 126</h2>
+                <h2 className="name">Section 119</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
-                  <span>Add to Apple Wallet</span>
+                  <span>Toevoegen aan Apple Wallet</span>
                 </button>
                 <div className="detail">
-                  <a href="">Show barcode</a>
-                  <a href="">Ticket details</a>
+                  <a href="">Toon streepjescode</a>
+                  <a href="">Ticketgegevens</a>
                 </div>
               </div>
               <div className="footer-content">
@@ -110,7 +110,7 @@ function App() {
             </div>
             <div className="card swiper-slide">
               <div className="header-content">
-                <h4>Standard Tickets</h4>
+                <h4>Standaard kaartjes</h4>
               </div>
               <div className="seat-content">
                 <div className="row">
@@ -119,8 +119,8 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">126</span>
-                  <span className="seat">40</span>
+                  <span className="seat">119</span>
+                  <span className="seat">10</span>
                   <span className="seat"> 7</span>
                 </div>
               </div>
@@ -136,20 +136,20 @@ function App() {
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Fri, Jun 28 5:00PM Aviva Stadium, Dublin 
+                      Vr 5 jul 2024, 18:00 Johan Cruijff ArenA, Amsterdam 
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 126</h2>
+                <h2 className="name">Section 119</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
-                  <span>Add to Apple Wallet</span>
+                  <span>Toevoegen aan Apple Wallet</span>
                 </button>
                 <div className="detail">
-                  <a href="">Show barcode</a>
-                  <a href="">Ticket details</a>
+                  <a href="">Toon streepjescode</a>
+                  <a href="">Ticketgegevens</a>
                 </div>
               </div>
               <div className="footer-content">
@@ -159,7 +159,7 @@ function App() {
             </div>
             <div className="card swiper-slide">
               <div className="header-content">
-                <h4>Standard Tickets</h4>
+                <h4>Standaard kaartjes</h4>
               </div>
               <div className="seat-content">
                 <div className="row">
@@ -168,8 +168,8 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">126</span>
-                  <span className="seat">40</span>
+                  <span className="seat">119</span>
+                  <span className="seat">10</span>
                   <span className="seat"> 8</span>
                 </div>
               </div>
@@ -185,20 +185,20 @@ function App() {
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Fri, Jun 28 5:00PM Aviva Stadium, Dublin 
+                      Vr 5 jul 2024, 18:00 Johan Cruijff ArenA, Amsterdam 
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 126</h2>
+                <h2 className="name">Section 119</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
-                  <span>Add to Apple Wallet</span>
+                  <span>Toevoegen aan Apple Wallet</span>
                 </button>
                 <div className="detail">
-                  <a href="">Show barcode</a>
-                  <a href="">Ticket details</a>
+                  <a href="">Toon streepjescode</a>
+                  <a href="">Ticketgegevens</a>
                 </div>
               </div>
               <div className="footer-content">
@@ -208,7 +208,7 @@ function App() {
             </div>
             <div className="card swiper-slide">
               <div className="header-content">
-                <h4>Standard Tickets</h4>
+                <h4>Standaard kaartjes</h4>
               </div>
               <div className="seat-content">
                 <div className="row">
@@ -217,8 +217,8 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">126</span>
-                  <span className="seat">40</span>
+                  <span className="seat">119</span>
+                  <span className="seat">10</span>
                   <span className="seat"> 6</span>
                 </div>
               </div>
@@ -234,20 +234,20 @@ function App() {
                     <h3>The Eras Tour <br /></h3>
 
                     <p>
-                      Fri, Jun 28 5:00PM Aviva Stadium, Dublin 
+                      Vr 5 jul 2024, 18:00 Johan Cruijff ArenA, Amsterdam 
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 126</h2>
+                <h2 className="name">Section 119</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
-                  <span>Add to Apple Wallet</span>
+                  <span>Toevoegen aan Apple Wallet</span>
                 </button>
                 <div className="detail">
-                  <a href="">Show barcode</a>
-                  <a href="">Ticket details</a>
+                  <a href="">Toon streepjescode</a>
+                  <a href="">Ticketgegevens</a>
                 </div>
               </div>
               <div className="footer-content">
@@ -257,7 +257,7 @@ function App() {
             </div>
             <div className="card swiper-slide">
               <div className="header-content">
-                <h4>Standard Tickets</h4>
+                <h4>Standaard kaartjes</h4>
               </div>
               <div className="seat-content">
                 <div className="row">
@@ -266,8 +266,8 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">126</span>
-                  <span className="seat">40</span>
+                  <span className="seat">119</span>
+                  <span className="seat">10</span>
                   <span className="seat"> 7</span>
                 </div>
               </div>
@@ -283,20 +283,20 @@ function App() {
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Fri, Jun 28 5:00PM Aviva Stadium, Dublin 
+                      Vr 5 jul 2024, 18:00 Johan Cruijff ArenA, Amsterdam 
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 126</h2>
+                <h2 className="name">Section 119</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
-                  <span>Add to Apple Wallet</span>
+                  <span>Toevoegen aan Apple Wallet</span>
                 </button>
                 <div className="detail">
-                  <a href="">Show barcode</a>
-                  <a href="">Ticket details</a>
+                  <a href="">Toon streepjescode</a>
+                  <a href="">Ticketgegevens</a>
                 </div>
               </div>
               <div className="footer-content">
@@ -306,7 +306,7 @@ function App() {
             </div>
             <div className="card swiper-slide">
               <div className="header-content">
-                <h4>Standard Tickets</h4>
+                <h4>Standaard kaartjes</h4>
               </div>
               <div className="seat-content">
                 <div className="row">
@@ -315,8 +315,8 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">126</span>
-                  <span className="seat">40</span>
+                  <span className="seat">119</span>
+                  <span className="seat">10</span>
                   <span className="seat"> 8</span>
                 </div>
               </div>
@@ -332,20 +332,20 @@ function App() {
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Fri, Jun 28 5:00PM Aviva Stadium, Dublin 
+                      Vr 5 jul 2024, 18:00 Johan Cruijff ArenA, Amsterdam 
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 126</h2>
+                <h2 className="name">Section 119</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
-                  <span>Add to Apple Wallet</span>
+                  <span>Toevoegen aan Apple Wallet</span>
                 </button>
                 <div className="detail">
-                  <a href="">Show barcode</a>
-                  <a href="">Ticket details</a>
+                  <a href="">Toon streepjescode</a>
+                  <a href="">Ticketgegevens</a>
                 </div>
               </div>
               <div className="footer-content">
@@ -357,7 +357,7 @@ function App() {
             {/* ////////////////// */}
             <div className="card swiper-slide">
               <div className="header-content">
-                <h4>Standard Tickets</h4>
+                <h4>Standaard kaartjes</h4>
               </div>
               <div className="seat-content">
                 <div className="row">
@@ -366,8 +366,8 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">126</span>
-                  <span className="seat">40</span>
+                  <span className="seat">119</span>
+                  <span className="seat">10</span>
                   <span className="seat"> 6</span>
                 </div>
               </div>
@@ -383,20 +383,20 @@ function App() {
                     <h3>The Eras Tour <br /></h3>
 
                     <p>
-                      Fri, Jun 28 5:00PM Aviva Stadium, Dublin 
+                      Vr 5 jul 2024, 18:00 Johan Cruijff ArenA, Amsterdam 
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 126</h2>
+                <h2 className="name">Section 119</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
-                  <span>Add to Apple Wallet</span>
+                  <span>Toevoegen aan Apple Wallet</span>
                 </button>
                 <div className="detail">
-                  <a href="">Show barcode</a>
-                  <a href="">Ticket details</a>
+                  <a href="">Toon streepjescode</a>
+                  <a href="">Ticketgegevens</a>
                 </div>
               </div>
               <div className="footer-content">
@@ -406,7 +406,7 @@ function App() {
             </div>
             <div className="card swiper-slide">
               <div className="header-content">
-                <h4>Standard Tickets</h4>
+                <h4>Standaard kaartjes</h4>
               </div>
               <div className="seat-content">
                 <div className="row">
@@ -415,8 +415,8 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">126</span>
-                  <span className="seat">40</span>
+                  <span className="seat">119</span>
+                  <span className="seat">10</span>
                   <span className="seat"> 7</span>
                 </div>
               </div>
@@ -432,20 +432,20 @@ function App() {
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Fri, Jun 28 5:00PM Aviva Stadium, Dublin 
+                      Vr 5 jul 2024, 18:00 Johan Cruijff ArenA, Amsterdam 
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 126</h2>
+                <h2 className="name">Section 119</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
-                  <span>Add to Apple Wallet</span>
+                  <span>Toevoegen aan Apple Wallet</span>
                 </button>
                 <div className="detail">
-                  <a href="">Show barcode</a>
-                  <a href="">Ticket details</a>
+                  <a href="">Toon streepjescode</a>
+                  <a href="">Ticketgegevens</a>
                 </div>
               </div>
               <div className="footer-content">
@@ -455,7 +455,7 @@ function App() {
             </div>
             <div className="card swiper-slide">
               <div className="header-content">
-                <h4>Standard Tickets</h4>
+                <h4>Standaard kaartjes</h4>
               </div>
               <div className="seat-content">
                 <div className="row">
@@ -464,8 +464,8 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">126</span>
-                  <span className="seat">40</span>
+                  <span className="seat">119</span>
+                  <span className="seat">10</span>
                   <span className="seat"> 8</span>
                 </div>
               </div>
@@ -481,20 +481,20 @@ function App() {
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Fri, Jun 28 5:00PM Aviva Stadium, Dublin 
+                      Vr 5 jul 2024, 18:00 Johan Cruijff ArenA, Amsterdam 
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 126</h2>
+                <h2 className="name">Section 119</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
-                  <span>Add to Apple Wallet</span>
+                  <span>Toevoegen aan Apple Wallet</span>
                 </button>
                 <div className="detail">
-                  <a href="">Show barcode</a>
-                  <a href="">Ticket details</a>
+                  <a href="">Toon streepjescode</a>
+                  <a href="">Ticketgegevens</a>
                 </div>
               </div>
               <div className="footer-content">
@@ -504,7 +504,7 @@ function App() {
             </div>
             <div className="card swiper-slide">
               <div className="header-content">
-                <h4>Standard Tickets</h4>
+                <h4>Standaard kaartjes</h4>
               </div>
               <div className="seat-content">
                 <div className="row">
@@ -513,8 +513,8 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">126</span>
-                  <span className="seat">40</span>
+                  <span className="seat">119</span>
+                  <span className="seat">10</span>
                   <span className="seat"> 9</span>
                 </div>
               </div>
@@ -530,20 +530,20 @@ function App() {
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Fri, Jun 28 5:00PM Aviva Stadium, Dublin 
+                      Vr 5 jul 2024, 18:00 Johan Cruijff ArenA, Amsterdam 
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 126</h2>
+                <h2 className="name">Section 119</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
-                  <span>Add to Apple Wallet</span>
+                  <span>Toevoegen aan Apple Wallet</span>
                 </button>
                 <div className="detail">
-                  <a href="">Show barcode</a>
-                  <a href="">Ticket details</a>
+                  <a href="">Toon streepjescode</a>
+                  <a href="">Ticketgegevens</a>
                 </div>
               </div>
               <div className="footer-content">
