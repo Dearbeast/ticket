@@ -55,7 +55,7 @@ function App() {
       <div className="slide-container swiper">
         <div className="intro">
           <img src="/kspxFuslACBP.png" alt="" className="close" />
-          <h1>Mijn kaartjes</h1>
+          <h1>My Tickets</h1>
         </div>
         <div className="slide-content" ref={slideContent}>
           <div className="card-wrapper swiper-wrapper">
