@@ -61,46 +61,46 @@ function App() {
           <div className="card-wrapper swiper-wrapper">
             <div className="card swiper-slide">
               <div className="header-content">
-                <h4>Standaard kaartjes</h4>
+                <h4>Standard Ticket</h4>
               </div>
               <div className="seat-content">
                 <div className="row">
                   <span className="seat">SEC</span>
-                  <span className="seat">RIJ</span>
-                  <span className="seat">ZITPLAATS</span>
+                  <span className="seat">ROW</span>
+                  <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">119</span>
-                  <span className="seat">10</span>
+                  <span className="seat">1O2</span>
+                  <span className="seat">11</span>
                   <span className="seat"> 6</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/Taylor.jpeg" alt="nick" style={{
+                  <img src="/ATEEZ.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>The Eras Tour <br /></h3>
+                    <h3>ATEEZ WORLD TOUR <br /></h3>
 
                     <p>
-                      Vr 5 jul 2024, 18:00 Johan Cruijff ArenA, Amsterdam 
+                      Thu July 25, 7:30PM Footprint Center, Pheonix, AZ 
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 119</h2>
+                <h2 className="name">Section 1O2</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
-                  <span>Toevoegen aan Apple Wallet</span>
+                  <span>Add to Apple Wallet</span>
                 </button>
                 <div className="detail">
-                  <a href="">Toon streepjescode</a>
-                  <a href="">Ticketgegevens</a>
+                  <a href="">View Barcode</a>
+                  <a href="">Ticket Details</a>
                 </div>
               </div>
               <div className="footer-content">
@@ -110,7 +110,7 @@ function App() {
             </div>
             <div className="card swiper-slide">
               <div className="header-content">
-                <h4>Standaard kaartjes</h4>
+                <h4>Standard Ticket</h4>
               </div>
               <div className="seat-content">
                 <div className="row">
@@ -119,37 +119,37 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">119</span>
-                  <span className="seat">10</span>
+                  <span className="seat">1O2</span>
+                  <span className="seat">11</span>
                   <span className="seat"> 7</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/Taylor.jpeg" alt="nick" style={{
+                  <img src="/ATEEZ.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>The Eras Tour<br /></h3>
+                    <h3>ATEEZ WORLD TOUR<br /></h3>
 
                     <p>
-                      Vr 5 jul 2024, 18:00 Johan Cruijff ArenA, Amsterdam 
+                      Thu July 25, 7:30PM Footprint Center, Pheonix, AZ 
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 119</h2>
+                <h2 className="name">Section 1O2</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
-                  <span>Toevoegen aan Apple Wallet</span>
+                  <span>Add to Apple Wallet</span>
                 </button>
                 <div className="detail">
-                  <a href="">Toon streepjescode</a>
-                  <a href="">Ticketgegevens</a>
+                  <a href="">View Barcode</a>
+                  <a href="">Ticket Details</a>
                 </div>
               </div>
               <div className="footer-content">
@@ -159,7 +159,7 @@ function App() {
             </div>
             <div className="card swiper-slide">
               <div className="header-content">
-                <h4>Standaard kaartjes</h4>
+                <h4>Standard Ticket</h4>
               </div>
               <div className="seat-content">
                 <div className="row">
@@ -168,37 +168,37 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">119</span>
-                  <span className="seat">10</span>
+                  <span className="seat">1O2</span>
+                  <span className="seat">11</span>
                   <span className="seat"> 8</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/Taylor.jpeg" alt="nick" style={{
+                  <img src="/ATEEZ.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>The Eras Tour<br /></h3>
+                    <h3>ATEEZ WORLD TOUR<br /></h3>
 
                     <p>
-                      Vr 5 jul 2024, 18:00 Johan Cruijff ArenA, Amsterdam 
+                      Thu July 25, 7:30PM Footprint Center, Pheonix, AZ 
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 119</h2>
+                <h2 className="name">Section 1O2</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
-                  <span>Toevoegen aan Apple Wallet</span>
+                  <span>Add to Apple Wallet</span>
                 </button>
                 <div className="detail">
-                  <a href="">Toon streepjescode</a>
-                  <a href="">Ticketgegevens</a>
+                  <a href="">View Barcode</a>
+                  <a href="">Ticket Details</a>
                 </div>
               </div>
               <div className="footer-content">
@@ -208,7 +208,7 @@ function App() {
             </div>
             <div className="card swiper-slide">
               <div className="header-content">
-                <h4>Standaard kaartjes</h4>
+                <h4>Standard Ticket</h4>
               </div>
               <div className="seat-content">
                 <div className="row">
@@ -217,37 +217,37 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">119</span>
-                  <span className="seat">10</span>
+                  <span className="seat">1O2</span>
+                  <span className="seat">11</span>
                   <span className="seat"> 6</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/Taylor.jpeg" alt="nick" style={{
+                  <img src="/ATEEZ.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>The Eras Tour <br /></h3>
+                    <h3>ATEEZ WORLD TOUR <br /></h3>
 
                     <p>
-                      Vr 5 jul 2024, 18:00 Johan Cruijff ArenA, Amsterdam 
+                      Thu July 25, 7:30PM Footprint Center, Pheonix, AZ 
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 119</h2>
+                <h2 className="name">Section 1O2</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
-                  <span>Toevoegen aan Apple Wallet</span>
+                  <span>Add to Apple Wallet</span>
                 </button>
                 <div className="detail">
-                  <a href="">Toon streepjescode</a>
-                  <a href="">Ticketgegevens</a>
+                  <a href="">View Barcode</a>
+                  <a href="">Ticket Details</a>
                 </div>
               </div>
               <div className="footer-content">
@@ -257,7 +257,7 @@ function App() {
             </div>
             <div className="card swiper-slide">
               <div className="header-content">
-                <h4>Standaard kaartjes</h4>
+                <h4>Standard Ticket</h4>
               </div>
               <div className="seat-content">
                 <div className="row">
@@ -266,37 +266,37 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">119</span>
-                  <span className="seat">10</span>
+                  <span className="seat">1O2</span>
+                  <span className="seat">11</span>
                   <span className="seat"> 7</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/Taylor.jpeg" alt="nick" style={{
+                  <img src="/ATEEZ.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>The Eras Tour<br /></h3>
+                    <h3>ATEEZ WORLD TOUR<br /></h3>
 
                     <p>
-                      Vr 5 jul 2024, 18:00 Johan Cruijff ArenA, Amsterdam 
+                      Thu July 25, 7:30PM Footprint Center, Pheonix, AZ 
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 119</h2>
+                <h2 className="name">Section 1O2</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
-                  <span>Toevoegen aan Apple Wallet</span>
+                  <span>Add to Apple Wallet</span>
                 </button>
                 <div className="detail">
-                  <a href="">Toon streepjescode</a>
-                  <a href="">Ticketgegevens</a>
+                  <a href="">View Barcode</a>
+                  <a href="">Ticket Details</a>
                 </div>
               </div>
               <div className="footer-content">
@@ -306,7 +306,7 @@ function App() {
             </div>
             <div className="card swiper-slide">
               <div className="header-content">
-                <h4>Standaard kaartjes</h4>
+                <h4>Standard Ticket</h4>
               </div>
               <div className="seat-content">
                 <div className="row">
@@ -315,37 +315,37 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">119</span>
-                  <span className="seat">10</span>
+                  <span className="seat">1O2</span>
+                  <span className="seat">11</span>
                   <span className="seat"> 8</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/Taylor.jpeg" alt="nick" style={{
+                  <img src="/ATEEZ.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>The Eras Tour<br /></h3>
+                    <h3>ATEEZ WORLD TOUR<br /></h3>
 
                     <p>
-                      Vr 5 jul 2024, 18:00 Johan Cruijff ArenA, Amsterdam 
+                      Thu July 25, 7:30PM Footprint Center, Pheonix, AZ 
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 119</h2>
+                <h2 className="name">Section 1O2</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
-                  <span>Toevoegen aan Apple Wallet</span>
+                  <span>Add to Apple Wallet</span>
                 </button>
                 <div className="detail">
-                  <a href="">Toon streepjescode</a>
-                  <a href="">Ticketgegevens</a>
+                  <a href="">View Barcode</a>
+                  <a href="">Ticket Details</a>
                 </div>
               </div>
               <div className="footer-content">
@@ -357,7 +357,7 @@ function App() {
             {/* ////////////////// */}
             <div className="card swiper-slide">
               <div className="header-content">
-                <h4>Standaard kaartjes</h4>
+                <h4>Standard Ticket</h4>
               </div>
               <div className="seat-content">
                 <div className="row">
@@ -366,37 +366,37 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">119</span>
-                  <span className="seat">10</span>
+                  <span className="seat">1O2</span>
+                  <span className="seat">11</span>
                   <span className="seat"> 6</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/Taylor.jpeg" alt="nick" style={{
+                  <img src="/ATEEZ.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>The Eras Tour <br /></h3>
+                    <h3>ATEEZ WORLD TOUR <br /></h3>
 
                     <p>
-                      Vr 5 jul 2024, 18:00 Johan Cruijff ArenA, Amsterdam 
+                      Thu July 25, 7:30PM Footprint Center, Pheonix, AZ 
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 119</h2>
+                <h2 className="name">Section 1O2</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
-                  <span>Toevoegen aan Apple Wallet</span>
+                  <span>Add to Apple Wallet</span>
                 </button>
                 <div className="detail">
-                  <a href="">Toon streepjescode</a>
-                  <a href="">Ticketgegevens</a>
+                  <a href="">View Barcode</a>
+                  <a href="">Ticket Details</a>
                 </div>
               </div>
               <div className="footer-content">
@@ -406,7 +406,7 @@ function App() {
             </div>
             <div className="card swiper-slide">
               <div className="header-content">
-                <h4>Standaard kaartjes</h4>
+                <h4>Standard Ticket</h4>
               </div>
               <div className="seat-content">
                 <div className="row">
@@ -415,37 +415,37 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">119</span>
-                  <span className="seat">10</span>
+                  <span className="seat">1O2</span>
+                  <span className="seat">11</span>
                   <span className="seat"> 7</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/Taylor.jpeg" alt="nick" style={{
+                  <img src="/ATEEZ.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>The Eras Tour<br /></h3>
+                    <h3>ATEEZ WORLD TOUR<br /></h3>
 
                     <p>
-                      Vr 5 jul 2024, 18:00 Johan Cruijff ArenA, Amsterdam 
+                      Thu July 25, 7:30PM Footprint Center, Pheonix, AZ 
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 119</h2>
+                <h2 className="name">Section 1O2</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
-                  <span>Toevoegen aan Apple Wallet</span>
+                  <span>Add to Apple Wallet</span>
                 </button>
                 <div className="detail">
-                  <a href="">Toon streepjescode</a>
-                  <a href="">Ticketgegevens</a>
+                  <a href="">View Barcode</a>
+                  <a href="">Ticket Details</a>
                 </div>
               </div>
               <div className="footer-content">
@@ -455,7 +455,7 @@ function App() {
             </div>
             <div className="card swiper-slide">
               <div className="header-content">
-                <h4>Standaard kaartjes</h4>
+                <h4>Standard Ticket</h4>
               </div>
               <div className="seat-content">
                 <div className="row">
@@ -464,37 +464,37 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">119</span>
-                  <span className="seat">10</span>
+                  <span className="seat">1O2</span>
+                  <span className="seat">11</span>
                   <span className="seat"> 8</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/Taylor.jpeg" alt="nick" style={{
+                  <img src="/ATEEZ.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>The Eras Tour<br /></h3>
+                    <h3>ATEEZ WORLD TOUR<br /></h3>
 
                     <p>
-                      Vr 5 jul 2024, 18:00 Johan Cruijff ArenA, Amsterdam 
+                      Thu July 25, 7:30PM Footprint Center, Pheonix, AZ 
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 119</h2>
+                <h2 className="name">Section 1O2</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
-                  <span>Toevoegen aan Apple Wallet</span>
+                  <span>Add to Apple Wallet</span>
                 </button>
                 <div className="detail">
-                  <a href="">Toon streepjescode</a>
-                  <a href="">Ticketgegevens</a>
+                  <a href="">View Barcode</a>
+                  <a href="">Ticket Details</a>
                 </div>
               </div>
               <div className="footer-content">
@@ -504,7 +504,7 @@ function App() {
             </div>
             <div className="card swiper-slide">
               <div className="header-content">
-                <h4>Standaard kaartjes</h4>
+                <h4>Standard Ticket</h4>
               </div>
               <div className="seat-content">
                 <div className="row">
@@ -513,37 +513,37 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">119</span>
-                  <span className="seat">10</span>
+                  <span className="seat">1O2</span>
+                  <span className="seat">11</span>
                   <span className="seat"> 9</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/Taylor.jpeg" alt="nick" style={{
+                  <img src="/ATEEZ.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>The Eras Tour<br /></h3>
+                    <h3>ATEEZ WORLD TOUR<br /></h3>
 
                     <p>
-                      Vr 5 jul 2024, 18:00 Johan Cruijff ArenA, Amsterdam 
+                      Thu July 25, 7:30PM Footprint Center, Pheonix, AZ 
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 119</h2>
+                <h2 className="name">Section 1O2</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
-                  <span>Toevoegen aan Apple Wallet</span>
+                  <span>Add to Apple Wallet</span>
                 </button>
                 <div className="detail">
-                  <a href="">Toon streepjescode</a>
-                  <a href="">Ticketgegevens</a>
+                  <a href="">View Barcode</a>
+                  <a href="">Ticket Details</a>
                 </div>
               </div>
               <div className="footer-content">
@@ -558,8 +558,8 @@ function App() {
         <div className="swiper-pagination swiper-navBtn1" ref={sliderPagination}></div>
 
         <div className="banner-btn">
-          <a href=""> <span></span>Overdracht</a>
-          <a href=""> <span></span>Verkopen</a>
+          <a href=""> <span></span>Transfer</a>
+          <a href=""> <span></span>Sell</a>
         </div>
       </div>
     </>
