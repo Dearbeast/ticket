@@ -70,30 +70,30 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">1O2</span>
-                  <span className="seat">11</span>
+                  <span className="seat">117</span>
+                  <span className="seat">6</span>
                   <span className="seat"> 6</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/ATEEZ.jpg" alt="nick" style={{
+                  <img src="WWW Monday Night Raw.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>ATEEZ WORLD TOUR <br /></h3>
+                    <h3>WWW MONDAY NIGHT RAW <br /></h3>
 
                     <p>
-                      Thu July 25, 7:30PM Footprint Center, Pheonix, AZ 
+                      Mon July 29, 6:30PM Xcel Energy Center, Saint Paul, Minnesota, USA 
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 1O2</h2>
+                <h2 className="name">Section 117</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -119,30 +119,30 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">1O2</span>
-                  <span className="seat">11</span>
+                  <span className="seat">117</span>
+                  <span className="seat">6</span>
                   <span className="seat"> 7</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/ATEEZ.jpg" alt="nick" style={{
+                  <img src="WWW Monday Night Raw.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>ATEEZ WORLD TOUR<br /></h3>
+                    <h3>WWW MONDAY NIGHT RAW<br /></h3>
 
                     <p>
-                      Thu July 25, 7:30PM Footprint Center, Pheonix, AZ 
+                      Mon July 29, 6:30PM Xcel Energy Center, Saint Paul, Minnesota, USA 
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 1O2</h2>
+                <h2 className="name">Section 117</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -168,30 +168,30 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">1O2</span>
-                  <span className="seat">11</span>
+                  <span className="seat">117</span>
+                  <span className="seat">6</span>
                   <span className="seat"> 8</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/ATEEZ.jpg" alt="nick" style={{
+                  <img src="WWW Monday Night Raw.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>ATEEZ WORLD TOUR<br /></h3>
+                    <h3>WWW MONDAY NIGHT RAW<br /></h3>
 
                     <p>
-                      Thu July 25, 7:30PM Footprint Center, Pheonix, AZ 
+                      Mon July 29, 6:30PM Xcel Energy Center, Saint Paul, Minnesota, USA 
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 1O2</h2>
+                <h2 className="name">Section 117</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -217,30 +217,30 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">1O2</span>
-                  <span className="seat">11</span>
+                  <span className="seat">117</span>
+                  <span className="seat">6</span>
                   <span className="seat"> 6</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/ATEEZ.jpg" alt="nick" style={{
+                  <img src="WWW Monday Night Raw.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>ATEEZ WORLD TOUR <br /></h3>
+                    <h3>WWW MONDAY NIGHT RAW <br /></h3>
 
                     <p>
-                      Thu July 25, 7:30PM Footprint Center, Pheonix, AZ 
+                      Mon July 29, 6:30PM Xcel Energy Center, Saint Paul, Minnesota, USA 
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 1O2</h2>
+                <h2 className="name">Section 117</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -266,30 +266,30 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">1O2</span>
-                  <span className="seat">11</span>
+                  <span className="seat">117</span>
+                  <span className="seat">6</span>
                   <span className="seat"> 7</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/ATEEZ.jpg" alt="nick" style={{
+                  <img src="WWW Monday Night Raw.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>ATEEZ WORLD TOUR<br /></h3>
+                    <h3>WWW MONDAY NIGHT RAW<br /></h3>
 
                     <p>
-                      Thu July 25, 7:30PM Footprint Center, Pheonix, AZ 
+                      Mon July 29, 6:30PM Xcel Energy Center, Saint Paul, Minnesota, USA 
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 1O2</h2>
+                <h2 className="name">Section 117</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -315,30 +315,30 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">1O2</span>
-                  <span className="seat">11</span>
+                  <span className="seat">117</span>
+                  <span className="seat">6</span>
                   <span className="seat"> 8</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/ATEEZ.jpg" alt="nick" style={{
+                  <img src="WWW Monday Night Raw.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>ATEEZ WORLD TOUR<br /></h3>
+                    <h3>WWW MONDAY NIGHT RAW<br /></h3>
 
                     <p>
-                      Thu July 25, 7:30PM Footprint Center, Pheonix, AZ 
+                      Mon July 29, 6:30PM Xcel Energy Center, Saint Paul, Minnesota, USA 
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 1O2</h2>
+                <h2 className="name">Section 117</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -366,30 +366,30 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">1O2</span>
-                  <span className="seat">11</span>
+                  <span className="seat">117</span>
+                  <span className="seat">6</span>
                   <span className="seat"> 6</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/ATEEZ.jpg" alt="nick" style={{
+                  <img src="WWW Monday Night Raw.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>ATEEZ WORLD TOUR <br /></h3>
+                    <h3>WWW MONDAY NIGHT RAW <br /></h3>
 
                     <p>
-                      Thu July 25, 7:30PM Footprint Center, Pheonix, AZ 
+                      Mon July 29, 6:30PM Xcel Energy Center, Saint Paul, Minnesota, USA 
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 1O2</h2>
+                <h2 className="name">Section 117</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -415,30 +415,30 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">1O2</span>
-                  <span className="seat">11</span>
+                  <span className="seat">117</span>
+                  <span className="seat">6</span>
                   <span className="seat"> 7</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/ATEEZ.jpg" alt="nick" style={{
+                  <img src="WWW Monday Night Raw.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>ATEEZ WORLD TOUR<br /></h3>
+                    <h3>WWW MONDAY NIGHT RAW<br /></h3>
 
                     <p>
-                      Thu July 25, 7:30PM Footprint Center, Pheonix, AZ 
+                      Mon July 29, 6:30PM Xcel Energy Center, Saint Paul, Minnesota, USA 
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 1O2</h2>
+                <h2 className="name">Section 117</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -464,30 +464,30 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">1O2</span>
-                  <span className="seat">11</span>
+                  <span className="seat">117</span>
+                  <span className="seat">6</span>
                   <span className="seat"> 8</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/ATEEZ.jpg" alt="nick" style={{
+                  <img src="WWW Monday Night Raw.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>ATEEZ WORLD TOUR<br /></h3>
+                    <h3>WWW MONDAY NIGHT RAW<br /></h3>
 
                     <p>
-                      Thu July 25, 7:30PM Footprint Center, Pheonix, AZ 
+                      Mon July 29, 6:30PM Xcel Energy Center, Saint Paul, Minnesota, USA 
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 1O2</h2>
+                <h2 className="name">Section 117</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -513,30 +513,30 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">1O2</span>
-                  <span className="seat">11</span>
+                  <span className="seat">117</span>
+                  <span className="seat">6</span>
                   <span className="seat"> 9</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/ATEEZ.jpg" alt="nick" style={{
+                  <img src="WWW Monday Night Raw.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>ATEEZ WORLD TOUR<br /></h3>
+                    <h3>WWW MONDAY NIGHT RAW<br /></h3>
 
                     <p>
-                      Thu July 25, 7:30PM Footprint Center, Pheonix, AZ 
+                      Mon July 29, 6:30PM Xcel Energy Center, Saint Paul, Minnesota, USA 
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 1O2</h2>
+                <h2 className="name">Section 117</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
