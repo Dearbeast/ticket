@@ -515,7 +515,7 @@ function App() {
                 <div className="row1">
                   <span className="seat">117</span>
                   <span className="seat">6</span>
-                  <span className="seat"> 9</span>
+                  <span className="seat"> 5</span>
                 </div>
               </div>
               <div className="image-content">
