@@ -70,30 +70,30 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">117</span>
-                  <span className="seat">6</span>
-                  <span className="seat"> 6</span>
+                  <span className="seat">GENADM</span>
+                  <span className="seat">GA</span>
+                  <span className="seat"> -</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="WWW Monday Night Raw.jpg" alt="nick" style={{
+                  <img src="Sabrina.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>WWW MONDAY NIGHT RAW <br /></h3>
+                    <h3>SABRINA CARPENTER: SHORT N' SWEET TOUR <br /></h3>
 
                     <p>
-                      Mon July 29, 6:30PM Xcel Energy Center, Saint Paul, Minnesota, USA 
+                      Fri, Aug 2, 18:00 . GRAMMY Museum
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 117</h2>
+                <h2 className="name">GENERAL ADMISSION</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -119,30 +119,30 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">117</span>
-                  <span className="seat">6</span>
-                  <span className="seat"> 7</span>
+                  <span className="seat">GENADM</span>
+                  <span className="seat">GA</span>
+                  <span className="seat"> -</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="WWW Monday Night Raw.jpg" alt="nick" style={{
+                  <img src="Sabrina.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>WWW MONDAY NIGHT RAW<br /></h3>
+                    <h3>SABRINA CARPENTER: SHORT N' SWEET TOUR<br /></h3>
 
                     <p>
-                      Mon July 29, 6:30PM Xcel Energy Center, Saint Paul, Minnesota, USA 
+                      Fri, Aug 2, 18:00 . GRAMMY Museum
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 117</h2>
+                <h2 className="name">GENERAL ADMISSION</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -168,30 +168,30 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">117</span>
-                  <span className="seat">6</span>
-                  <span className="seat"> 8</span>
+                  <span className="seat">GENADM</span>
+                  <span className="seat">GA</span>
+                  <span className="seat"> -</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="WWW Monday Night Raw.jpg" alt="nick" style={{
+                  <img src="Sabrina.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>WWW MONDAY NIGHT RAW<br /></h3>
+                    <h3>SABRINA CARPENTER: SHORT N' SWEET TOUR<br /></h3>
 
                     <p>
-                      Mon July 29, 6:30PM Xcel Energy Center, Saint Paul, Minnesota, USA 
+                      Fri, Aug 2, 18:00 . GRAMMY Museum
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 117</h2>
+                <h2 className="name">GENERAL ADMISSION</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -217,30 +217,30 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">117</span>
-                  <span className="seat">6</span>
-                  <span className="seat"> 6</span>
+                  <span className="seat">GENADM</span>
+                  <span className="seat">GA</span>
+                  <span className="seat"> -</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="WWW Monday Night Raw.jpg" alt="nick" style={{
+                  <img src="Sabrina.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>WWW MONDAY NIGHT RAW <br /></h3>
+                    <h3>SABRINA CARPENTER: SHORT N' SWEET TOUR <br /></h3>
 
                     <p>
-                      Mon July 29, 6:30PM Xcel Energy Center, Saint Paul, Minnesota, USA 
+                      Fri, Aug 2, 18:00 . GRAMMY Museum
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 117</h2>
+                <h2 className="name">GENERAL ADMISSION</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -266,30 +266,30 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">117</span>
-                  <span className="seat">6</span>
-                  <span className="seat"> 7</span>
+                  <span className="seat">GENADM</span>
+                  <span className="seat">GA</span>
+                  <span className="seat"> -</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="WWW Monday Night Raw.jpg" alt="nick" style={{
+                  <img src="Sabrina.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>WWW MONDAY NIGHT RAW<br /></h3>
+                    <h3>SABRINA CARPENTER: SHORT N' SWEET TOUR<br /></h3>
 
                     <p>
-                      Mon July 29, 6:30PM Xcel Energy Center, Saint Paul, Minnesota, USA 
+                      Fri, Aug 2, 18:00 . GRAMMY Museum
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 117</h2>
+                <h2 className="name">GENERAL ADMISSION</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -315,30 +315,30 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">117</span>
-                  <span className="seat">6</span>
-                  <span className="seat"> 8</span>
+                  <span className="seat">GENADM</span>
+                  <span className="seat">GA</span>
+                  <span className="seat"> -</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="WWW Monday Night Raw.jpg" alt="nick" style={{
+                  <img src="Sabrina.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>WWW MONDAY NIGHT RAW<br /></h3>
+                    <h3>SABRINA CARPENTER: SHORT N' SWEET TOUR<br /></h3>
 
                     <p>
-                      Mon July 29, 6:30PM Xcel Energy Center, Saint Paul, Minnesota, USA 
+                      Fri, Aug 2, 18:00 . GRAMMY Museum
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 117</h2>
+                <h2 className="name">GENERAL ADMISSION</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -373,23 +373,23 @@ function App() {
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="WWW Monday Night Raw.jpg" alt="nick" style={{
+                  <img src="Sabrina.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>WWW MONDAY NIGHT RAW <br /></h3>
+                    <h3>SABRINA CARPENTER: SHORT N' SWEET TOUR <br /></h3>
 
                     <p>
-                      Mon July 29, 6:30PM Xcel Energy Center, Saint Paul, Minnesota, USA 
+                      Fri, Aug 2, 18:00 . GRAMMY Museum
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 117</h2>
+                <h2 className="name">GENERAL ADMISSION</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -422,23 +422,23 @@ function App() {
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="WWW Monday Night Raw.jpg" alt="nick" style={{
+                  <img src="Sabrina.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>WWW MONDAY NIGHT RAW<br /></h3>
+                    <h3>SABRINA CARPENTER: SHORT N' SWEET TOUR<br /></h3>
 
                     <p>
-                      Mon July 29, 6:30PM Xcel Energy Center, Saint Paul, Minnesota, USA 
+                      Fri, Aug 2, 18:00 . GRAMMY Museum
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 117</h2>
+                <h2 className="name">GENERAL ADMISSION</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -471,23 +471,23 @@ function App() {
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="WWW Monday Night Raw.jpg" alt="nick" style={{
+                  <img src="Sabrina.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>WWW MONDAY NIGHT RAW<br /></h3>
+                    <h3>SABRINA CARPENTER: SHORT N' SWEET TOUR<br /></h3>
 
                     <p>
-                      Mon July 29, 6:30PM Xcel Energy Center, Saint Paul, Minnesota, USA 
+                      Fri, Aug 2, 18:00 . GRAMMY Museum
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 117</h2>
+                <h2 className="name">GENERAL ADMISSION</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -513,30 +513,30 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">117</span>
-                  <span className="seat">6</span>
-                  <span className="seat"> 5</span>
+                  <span className="seat">GENADM</span>
+                  <span className="seat">GA</span>
+                  <span className="seat"> -</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="WWW Monday Night Raw.jpg" alt="nick" style={{
+                  <img src="Sabrina.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>WWW MONDAY NIGHT RAW<br /></h3>
+                    <h3>SABRINA CARPENTER: SHORT N' SWEET TOUR<br /></h3>
 
                     <p>
-                      Mon July 29, 6:30PM Xcel Energy Center, Saint Paul, Minnesota, USA 
+                      Fri, Aug 2, 18:00 . GRAMMY Museum
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Section 117</h2>
+                <h2 className="name">GENERAL ADMISSION</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
