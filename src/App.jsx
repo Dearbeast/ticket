@@ -1,7 +1,7 @@
 
 import 'swiper/swiper-bundle.min.css';
 import './App.css'
-import Swiper, { Navigation, Pagination, Scrollbar } from 'swiper';
+import Swiper, { Navi4tion, Pagination, Scrollbar } from 'swiper';
 import { useEffect, useRef } from 'react';
 
 function App() {
@@ -17,7 +17,7 @@ function App() {
 
   useEffect(() => {
     new Swiper(slideContent.current, {
-      modules: [Navigation, Pagination, Scrollbar],
+      modules: [Navi4tion, Pagination, Scrollbar],
       slidesPerView: 3,
       spaceBetween: 25,
       centeredSlides: true,
@@ -29,7 +29,7 @@ function App() {
         clickable: true,
         dynamicBullets: true,
       },
-      navigation: {
+      navi4tion: {
         nextEl: sliderNextElement.current,
         prevEl: sliderPrevElement.current,
       },
@@ -70,24 +70,24 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">GENADM</span>
-                  <span className="seat">GA</span>
-                  <span className="seat"> -</span>
+                  <span className="seat">126</span>
+                  <span className="seat">4</span>
+                  <span className="seat"> 5</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="Sabrina.jpg" alt="nick" style={{
+                  <img src="Taylor.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>SABRINA CARPENTER: SHORT N' SWEET TOUR <br /></h3>
+                    <h3>TAYLOR SWIFT | THE ERAS TOUR <br /></h3>
 
                     <p>
-                      Fri, Aug 2, 18:00 . GRAMMY Museum
+                      Thu, Aug 15, 16:30 Wembley Stadium London
                     </p>
                   </div>
                 </div>
@@ -119,24 +119,24 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">GENADM</span>
-                  <span className="seat">GA</span>
-                  <span className="seat"> -</span>
+                  <span className="seat">126</span>
+                  <span className="seat">4</span>
+                  <span className="seat"> 6</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="Sabrina.jpg" alt="nick" style={{
+                  <img src="Taylor.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>SABRINA CARPENTER: SHORT N' SWEET TOUR<br /></h3>
+                    <h3>TAYLOR SWIFT | THE ERAS TOUR<br /></h3>
 
                     <p>
-                      Fri, Aug 2, 18:00 . GRAMMY Museum
+                      Thu, Aug 15, 16:30 Wembley Stadium London
                     </p>
                   </div>
                 </div>
@@ -168,24 +168,24 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">GENADM</span>
-                  <span className="seat">GA</span>
-                  <span className="seat"> -</span>
+                  <span className="seat">126</span>
+                  <span className="seat">4</span>
+                  <span className="seat"> 7</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="Sabrina.jpg" alt="nick" style={{
+                  <img src="Taylor.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>SABRINA CARPENTER: SHORT N' SWEET TOUR<br /></h3>
+                    <h3>TAYLOR SWIFT | THE ERAS TOUR<br /></h3>
 
                     <p>
-                      Fri, Aug 2, 18:00 . GRAMMY Museum
+                      Thu, Aug 15, 16:30 Wembley Stadium London
                     </p>
                   </div>
                 </div>
@@ -217,24 +217,24 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">GENADM</span>
-                  <span className="seat">GA</span>
-                  <span className="seat"> -</span>
+                  <span className="seat">126</span>
+                  <span className="seat">4</span>
+                  <span className="seat"> 8</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="Sabrina.jpg" alt="nick" style={{
+                  <img src="Taylor.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>SABRINA CARPENTER: SHORT N' SWEET TOUR <br /></h3>
+                    <h3>TAYLOR SWIFT | THE ERAS TOUR <br /></h3>
 
                     <p>
-                      Fri, Aug 2, 18:00 . GRAMMY Museum
+                      Thu, Aug 15, 16:30 Wembley Stadium London
                     </p>
                   </div>
                 </div>
@@ -266,24 +266,24 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">GENADM</span>
-                  <span className="seat">GA</span>
-                  <span className="seat"> -</span>
+                  <span className="seat">126</span>
+                  <span className="seat">4</span>
+                  <span className="seat"> 5</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="Sabrina.jpg" alt="nick" style={{
+                  <img src="Taylor.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>SABRINA CARPENTER: SHORT N' SWEET TOUR<br /></h3>
+                    <h3>TAYLOR SWIFT | THE ERAS TOUR<br /></h3>
 
                     <p>
-                      Fri, Aug 2, 18:00 . GRAMMY Museum
+                      Thu, Aug 15, 16:30 Wembley Stadium London
                     </p>
                   </div>
                 </div>
@@ -315,24 +315,24 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">GENADM</span>
-                  <span className="seat">GA</span>
-                  <span className="seat"> -</span>
+                  <span className="seat">126</span>
+                  <span className="seat">4</span>
+                  <span className="seat"> 6</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="Sabrina.jpg" alt="nick" style={{
+                  <img src="Taylor.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>SABRINA CARPENTER: SHORT N' SWEET TOUR<br /></h3>
+                    <h3>TAYLOR SWIFT | THE ERAS TOUR<br /></h3>
 
                     <p>
-                      Fri, Aug 2, 18:00 . GRAMMY Museum
+                      Thu, Aug 15, 16:30 Wembley Stadium London
                     </p>
                   </div>
                 </div>
@@ -368,71 +368,22 @@ function App() {
                 <div className="row1">
                   <span className="seat">117</span>
                   <span className="seat">6</span>
-                  <span className="seat"> 6</span>
-                </div>
-              </div>
-              <div className="image-content">
-                <div className="card-img">
-                  <img src="Sabrina.jpg" alt="nick" style={{
-                    width: "350px",
-                    height: "350px",
-                    objectFit: "fill"
-                  }} />
-                  <div className="overlay"></div>
-                  <div className="service-desc">
-                    <h3>SABRINA CARPENTER: SHORT N' SWEET TOUR <br /></h3>
-
-                    <p>
-                      Fri, Aug 2, 18:00 . GRAMMY Museum
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <div className="card-content">
-                <h2 className="name">GENERAL ADMISSION</h2>
-                <button className="btn-apple">
-                  <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
-                  <span>Add to Apple Wallet</span>
-                </button>
-                <div className="detail">
-                  <a href="">View Barcode</a>
-                  <a href="">Ticket Details</a>
-                </div>
-              </div>
-              <div className="footer-content">
-                <img src="/euZet6wt4nPl.png" alt="" className="love" />
-                <p><i>ticketmaster.verified</i></p>
-              </div>
-            </div>
-            <div className="card swiper-slide">
-              <div className="header-content">
-                <h4>Standard Ticket</h4>
-              </div>
-              <div className="seat-content">
-                <div className="row">
-                  <span className="seat">SEC</span>
-                  <span className="seat">ROW</span>
-                  <span className="seat">SEAT</span>
-                </div>
-                <div className="row1">
-                  <span className="seat">117</span>
-                  <span className="seat">6</span>
                   <span className="seat"> 7</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="Sabrina.jpg" alt="nick" style={{
+                  <img src="Taylor.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>SABRINA CARPENTER: SHORT N' SWEET TOUR<br /></h3>
+                    <h3>TAYLOR SWIFT | THE ERAS TOUR <br /></h3>
 
                     <p>
-                      Fri, Aug 2, 18:00 . GRAMMY Museum
+                      Thu, Aug 15, 16:30 Wembley Stadium London
                     </p>
                   </div>
                 </div>
@@ -471,17 +422,17 @@ function App() {
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="Sabrina.jpg" alt="nick" style={{
+                  <img src="Taylor.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>SABRINA CARPENTER: SHORT N' SWEET TOUR<br /></h3>
+                    <h3>TAYLOR SWIFT | THE ERAS TOUR<br /></h3>
 
                     <p>
-                      Fri, Aug 2, 18:00 . GRAMMY Museum
+                      Thu, Aug 15, 16:30 Wembley Stadium London
                     </p>
                   </div>
                 </div>
@@ -513,24 +464,73 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">GENADM</span>
-                  <span className="seat">GA</span>
-                  <span className="seat"> -</span>
+                  <span className="seat">117</span>
+                  <span className="seat">6</span>
+                  <span className="seat"> 5</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="Sabrina.jpg" alt="nick" style={{
+                  <img src="Taylor.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>SABRINA CARPENTER: SHORT N' SWEET TOUR<br /></h3>
+                    <h3>TAYLOR SWIFT | THE ERAS TOUR<br /></h3>
 
                     <p>
-                      Fri, Aug 2, 18:00 . GRAMMY Museum
+                      Thu, Aug 15, 16:30 Wembley Stadium London
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div className="card-content">
+                <h2 className="name">GENERAL ADMISSION</h2>
+                <button className="btn-apple">
+                  <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
+                  <span>Add to Apple Wallet</span>
+                </button>
+                <div className="detail">
+                  <a href="">View Barcode</a>
+                  <a href="">Ticket Details</a>
+                </div>
+              </div>
+              <div className="footer-content">
+                <img src="/euZet6wt4nPl.png" alt="" className="love" />
+                <p><i>ticketmaster.verified</i></p>
+              </div>
+            </div>
+            <div className="card swiper-slide">
+              <div className="header-content">
+                <h4>Standard Ticket</h4>
+              </div>
+              <div className="seat-content">
+                <div className="row">
+                  <span className="seat">SEC</span>
+                  <span className="seat">ROW</span>
+                  <span className="seat">SEAT</span>
+                </div>
+                <div className="row1">
+                  <span className="seat">126</span>
+                  <span className="seat">4</span>
+                  <span className="seat"> 6</span>
+                </div>
+              </div>
+              <div className="image-content">
+                <div className="card-img">
+                  <img src="Taylor.jpg" alt="nick" style={{
+                    width: "350px",
+                    height: "350px",
+                    objectFit: "fill"
+                  }} />
+                  <div className="overlay"></div>
+                  <div className="service-desc">
+                    <h3>TAYLOR SWIFT | THE ERAS TOUR<br /></h3>
+
+                    <p>
+                      Thu, Aug 15, 16:30 Wembley Stadium London
                     </p>
                   </div>
                 </div>
