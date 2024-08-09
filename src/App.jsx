@@ -1,7 +1,7 @@
 
 import 'swiper/swiper-bundle.min.css';
 import './App.css'
-import Swiper, { Navi4tion, Pagination, Scrollbar } from 'swiper';
+import Swiper, { Navigation, Pagination, Scrollbar } from 'swiper';
 import { useEffect, useRef } from 'react';
 
 function App() {
@@ -17,7 +17,7 @@ function App() {
 
   useEffect(() => {
     new Swiper(slideContent.current, {
-      modules: [Navi4tion, Pagination, Scrollbar],
+      modules: [Navigation, Pagination, Scrollbar],
       slidesPerView: 3,
       spaceBetween: 25,
       centeredSlides: true,
@@ -29,7 +29,7 @@ function App() {
         clickable: true,
         dynamicBullets: true,
       },
-      navi4tion: {
+      navigation: {
         nextEl: sliderNextElement.current,
         prevEl: sliderPrevElement.current,
       },
@@ -77,7 +77,7 @@ function App() {
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="Taylor.jpg" alt="nick" style={{
+                  <img src="Taylor.jpeg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
@@ -87,13 +87,13 @@ function App() {
                     <h3>TAYLOR SWIFT | THE ERAS TOUR <br /></h3>
 
                     <p>
-                      Thu, Aug 15, 16:30 Wembley Stadium, London
+                      Thu, Aug 15, 16:30 Wembley Stadium London
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">GENERAL ADMISSION</h2>
+                <h2 className="name">SECTION 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -126,7 +126,7 @@ function App() {
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="Taylor.jpg" alt="nick" style={{
+                  <img src="Taylor.jpeg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
@@ -136,13 +136,13 @@ function App() {
                     <h3>TAYLOR SWIFT | THE ERAS TOUR<br /></h3>
 
                     <p>
-                      Thu, Aug 15, 16:30 Wembley Stadium, London
+                      Thu, Aug 15, 16:30 Wembley Stadium London
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">GENERAL ADMISSION</h2>
+                <h2 className="name">SECTION 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -175,7 +175,7 @@ function App() {
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="Taylor.jpg" alt="nick" style={{
+                  <img src="Taylor.jpeg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
@@ -185,13 +185,13 @@ function App() {
                     <h3>TAYLOR SWIFT | THE ERAS TOUR<br /></h3>
 
                     <p>
-                      Thu, Aug 15, 16:30 Wembley Stadium, London
+                      Thu, Aug 15, 16:30 Wembley Stadium London
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">GENERAL ADMISSION</h2>
+                <h2 className="name">SECTION 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -224,7 +224,7 @@ function App() {
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="Taylor.jpg" alt="nick" style={{
+                  <img src="Taylor.jpeg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
@@ -234,13 +234,13 @@ function App() {
                     <h3>TAYLOR SWIFT | THE ERAS TOUR <br /></h3>
 
                     <p>
-                      Thu, Aug 15, 16:30 Wembley Stadium, London
+                      Thu, Aug 15, 16:30 Wembley Stadium London
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">GENERAL ADMISSION</h2>
+                <h2 className="name">SECTION 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -273,7 +273,7 @@ function App() {
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="Taylor.jpg" alt="nick" style={{
+                  <img src="Taylor.jpeg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
@@ -283,13 +283,13 @@ function App() {
                     <h3>TAYLOR SWIFT | THE ERAS TOUR<br /></h3>
 
                     <p>
-                      Thu, Aug 15, 16:30 Wembley Stadium, London
+                      Thu, Aug 15, 16:30 Wembley Stadium London
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">GENERAL ADMISSION</h2>
+                <h2 className="name">SECTION 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -322,7 +322,7 @@ function App() {
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="Taylor.jpg" alt="nick" style={{
+                  <img src="Taylor.jpeg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
@@ -332,13 +332,13 @@ function App() {
                     <h3>TAYLOR SWIFT | THE ERAS TOUR<br /></h3>
 
                     <p>
-                      Thu, Aug 15, 16:30 Wembley Stadium, London
+                      Thu, Aug 15, 16:30 Wembley Stadium London
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">GENERAL ADMISSION</h2>
+                <h2 className="name">SECTION 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -373,7 +373,7 @@ function App() {
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="Taylor.jpg" alt="nick" style={{
+                  <img src="Taylor.jpeg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
@@ -383,13 +383,13 @@ function App() {
                     <h3>TAYLOR SWIFT | THE ERAS TOUR <br /></h3>
 
                     <p>
-                      Thu, Aug 15, 16:30 Wembley Stadium, London
+                      Thu, Aug 15, 16:30 Wembley Stadium London
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">GENERAL ADMISSION</h2>
+                <h2 className="name">SECTION 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -422,7 +422,7 @@ function App() {
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="Taylor.jpg" alt="nick" style={{
+                  <img src="Taylor.jpeg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
@@ -432,13 +432,13 @@ function App() {
                     <h3>TAYLOR SWIFT | THE ERAS TOUR<br /></h3>
 
                     <p>
-                      Thu, Aug 15, 16:30 Wembley Stadium, London
+                      Thu, Aug 15, 16:30 Wembley Stadium London
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">GENERAL ADMISSION</h2>
+                <h2 className="name">SECTION 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -471,7 +471,7 @@ function App() {
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="Taylor.jpg" alt="nick" style={{
+                  <img src="Taylor.jpeg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
@@ -481,13 +481,13 @@ function App() {
                     <h3>TAYLOR SWIFT | THE ERAS TOUR<br /></h3>
 
                     <p>
-                      Thu, Aug 15, 16:30 Wembley Stadium, London
+                      Thu, Aug 15, 16:30 Wembley Stadium London
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">GENERAL ADMISSION</h2>
+                <h2 className="name">SECTION 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -520,7 +520,7 @@ function App() {
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="Taylor.jpg" alt="nick" style={{
+                  <img src="Taylor.jpeg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
@@ -530,13 +530,13 @@ function App() {
                     <h3>TAYLOR SWIFT | THE ERAS TOUR<br /></h3>
 
                     <p>
-                      Thu, Aug 15, 16:30 Wembley Stadium, London
+                      Thu, Aug 15, 16:30 Wembley Stadium London
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">GENERAL ADMISSION</h2>
+                <h2 className="name">SECTION 126</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
