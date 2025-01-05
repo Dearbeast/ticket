@@ -84,7 +84,7 @@ function App() {
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>BILLIE EILISH:HIT ME HARD AND SOFT TOUR: HIT ME HARD AND SOFT TOUR <br /></h3>
+                    <h3>BILLIE EILISH:HIT ME HARD AND SOFT TOUR <br /></h3>
 
                     <p>
                       Tue, Feb 18, 19:00 Brisbane Entertainment Centre, Brisbane, Australia
@@ -133,7 +133,7 @@ function App() {
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>BILLIE EILISH:HIT ME HARD AND SOFT TOUR: HIT ME HARD AND SOFT TOUR<br /></h3>
+                    <h3>BILLIE EILISH:HIT ME HARD AND SOFT TOUR<br /></h3>
 
                     <p>
                       Tue, Feb 18, 19:00 Brisbane Entertainment Centre, Brisbane, Australia
@@ -182,7 +182,7 @@ function App() {
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>BILLIE EILISH:HIT ME HARD AND SOFT TOUR: HIT ME HARD AND SOFT TOUR<br /></h3>
+                    <h3>BILLIE EILISH:HIT ME HARD AND SOFT TOUR<br /></h3>
 
                     <p>
                       Tue, Feb 18, 19:00 Brisbane Entertainment Centre, Brisbane, Australia
@@ -231,7 +231,7 @@ function App() {
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>BILLIE EILISH:HIT ME HARD AND SOFT TOUR: HIT ME HARD AND SOFT TOUR <br /></h3>
+                    <h3>BILLIE EILISH:HIT ME HARD AND SOFT TOUR <br /></h3>
 
                     <p>
                       Tue, Feb 18, 19:00 Brisbane Entertainment Centre, Brisbane, Australia
@@ -280,7 +280,7 @@ function App() {
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>BILLIE EILISH:HIT ME HARD AND SOFT TOUR: HIT ME HARD AND SOFT TOUR<br /></h3>
+                    <h3>BILLIE EILISH:HIT ME HARD AND SOFT TOUR<br /></h3>
 
                     <p>
                       Tue, Feb 18, 19:00 Brisbane Entertainment Centre, Brisbane, Australia
@@ -329,7 +329,7 @@ function App() {
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>BILLIE EILISH:HIT ME HARD AND SOFT TOUR: HIT ME HARD AND SOFT TOUR<br /></h3>
+                    <h3>BILLIE EILISH:HIT ME HARD AND SOFT TOUR<br /></h3>
 
                     <p>
                       Tue, Feb 18, 19:00 Brisbane Entertainment Centre, Brisbane, Australia
@@ -380,7 +380,7 @@ function App() {
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>BILLIE EILISH:HIT ME HARD AND SOFT TOUR: HIT ME HARD AND SOFT TOUR <br /></h3>
+                    <h3>BILLIE EILISH:HIT ME HARD AND SOFT TOUR <br /></h3>
 
                     <p>
                       Tue, Feb 18, 19:00 Brisbane Entertainment Centre, Brisbane, Australia
@@ -429,7 +429,7 @@ function App() {
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>BILLIE EILISH:HIT ME HARD AND SOFT TOUR: HIT ME HARD AND SOFT TOUR<br /></h3>
+                    <h3>BILLIE EILISH:HIT ME HARD AND SOFT TOUR<br /></h3>
 
                     <p>
                       Tue, Feb 18, 19:00 Brisbane Entertainment Centre, Brisbane, Australia
@@ -478,7 +478,7 @@ function App() {
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>BILLIE EILISH:HIT ME HARD AND SOFT TOUR: HIT ME HARD AND SOFT TOUR<br /></h3>
+                    <h3>BILLIE EILISH:HIT ME HARD AND SOFT TOUR<br /></h3>
 
                     <p>
                       Tue, Feb 18, 19:00 Brisbane Entertainment Centre, Brisbane, Australia
@@ -527,7 +527,7 @@ function App() {
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>BILLIE EILISH:HIT ME HARD AND SOFT TOUR: HIT ME HARD AND SOFT TOUR<br /></h3>
+                    <h3>BILLIE EILISH:HIT ME HARD AND SOFT TOUR<br /></h3>
 
                     <p>
                       Tue, Feb 18, 19:00 Brisbane Entertainment Centre, Brisbane, Australia
