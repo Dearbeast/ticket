@@ -61,7 +61,7 @@ function App() {
           <div className="card-wrapper swiper-wrapper">
             <div className="card swiper-slide">
               <div className="header-content">
-                <h14>Standard Ticket</h14>
+                <hU >Standard Ticket</hU >
               </div>
               <div className="seat-content">
                 <div className="row">
@@ -69,31 +69,31 @@ function App() {
                   <span className="seat">ROW</span>
                   <span className="seat">SEAT</span>
                 </div>
-                <div className="row1">
-                  <span className="seat">109</span>
-                  <span className="seat">14</span>
-                  <span className="seat"> 6</span>
+                <div className="row1">  
+                  <span className="seat">32-1</span>
+                  <span className="seat">U </span>
+                  <span className="seat"> 450</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="Usher.jpg" alt="nick" style={{
+                  <img src="Biilliee elisissh.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>USHER: PAST PRESENT FUTURE <br /></h3>
+                    <h3>BILLIE EILISH:HIT ME HARD AND SOFT TOUR: HIT ME HARD AND SOFT TOUR <br /></h3>
 
                     <p>
-                      Mon, Sep 2, 20:00 Scotiabank Arena
+                      Tue, Feb 18, 19:00 Brisbane Entertainment Centre, Brisbane, Australia
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">SECTION 109</h2>
+                <h2 className="name">SECTION 32-1</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -104,13 +104,13 @@ function App() {
                 </div>
               </div>
               <div className="footer-content">
-                <img src="/euZet6wt14nPl.png" alt="" className="love" />
+                <img src="/euZet450wtU nPl.png" alt="" className="love" />
                 <p><i>ticketmaster.verified</i></p>
               </div>
             </div>
             <div className="card swiper-slide">
               <div className="header-content">
-                <h14>Standard Ticket</h14>
+                <hU >Standard Ticket</hU >
               </div>
               <div className="seat-content">
                 <div className="row">
@@ -119,30 +119,30 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">109</span>
-                  <span className="seat">14</span>
-                  <span className="seat"> 7</span>
+                  <span className="seat">32-1</span>
+                  <span className="seat">U </span>
+                  <span className="seat"> 49</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="Usher.jpg" alt="nick" style={{
+                  <img src="Biilliee elisissh.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>USHER: PAST PRESENT FUTURE<br /></h3>
+                    <h3>BILLIE EILISH:HIT ME HARD AND SOFT TOUR: HIT ME HARD AND SOFT TOUR<br /></h3>
 
                     <p>
-                      Mon, Sep 2, 20:00 Scotiabank Arena
+                      Tue, Feb 18, 19:00 Brisbane Entertainment Centre, Brisbane, Australia
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">SECTION 109</h2>
+                <h2 className="name">SECTION 32-1</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -153,13 +153,13 @@ function App() {
                 </div>
               </div>
               <div className="footer-content">
-                <img src="/euZet6wt14nPl.png" alt="" className="love" />
+                <img src="/euZet450wtU nPl.png" alt="" className="love" />
                 <p><i>ticketmaster.verified</i></p>
               </div>
             </div>
             <div className="card swiper-slide">
               <div className="header-content">
-                <h14>Standard Ticket</h14>
+                <hU >Standard Ticket</hU >
               </div>
               <div className="seat-content">
                 <div className="row">
@@ -168,30 +168,30 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">109</span>
-                  <span className="seat">14</span>
-                  <span className="seat"> 8</span>
+                  <span className="seat">32-1</span>
+                  <span className="seat">U </span>
+                  <span className="seat"> 50</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="Usher.jpg" alt="nick" style={{
+                  <img src="Biilliee elisissh.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>USHER: PAST PRESENT FUTURE<br /></h3>
+                    <h3>BILLIE EILISH:HIT ME HARD AND SOFT TOUR: HIT ME HARD AND SOFT TOUR<br /></h3>
 
                     <p>
-                      Mon, Sep 2, 20:00 Scotiabank Arena
+                      Tue, Feb 18, 19:00 Brisbane Entertainment Centre, Brisbane, Australia
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">SECTION 109</h2>
+                <h2 className="name">SECTION 32-1</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -202,13 +202,13 @@ function App() {
                 </div>
               </div>
               <div className="footer-content">
-                <img src="/euZet6wt14nPl.png" alt="" className="love" />
+                <img src="/euZet450wtU nPl.png" alt="" className="love" />
                 <p><i>ticketmaster.verified</i></p>
               </div>
             </div>
             <div className="card swiper-slide">
               <div className="header-content">
-                <h14>Standard Ticket</h14>
+                <hU >Standard Ticket</hU >
               </div>
               <div className="seat-content">
                 <div className="row">
@@ -217,30 +217,30 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">109</span>
-                  <span className="seat">14</span>
-                  <span className="seat"> 6</span>
+                  <span className="seat">32-1</span>
+                  <span className="seat">U </span>
+                  <span className="seat"> 450</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="Usher.jpg" alt="nick" style={{
+                  <img src="Biilliee elisissh.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>USHER: PAST PRESENT FUTURE <br /></h3>
+                    <h3>BILLIE EILISH:HIT ME HARD AND SOFT TOUR: HIT ME HARD AND SOFT TOUR <br /></h3>
 
                     <p>
-                      Mon, Sep 2, 20:00 Scotiabank Arena
+                      Tue, Feb 18, 19:00 Brisbane Entertainment Centre, Brisbane, Australia
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">SECTION 109</h2>
+                <h2 className="name">SECTION 32-1</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -251,13 +251,13 @@ function App() {
                 </div>
               </div>
               <div className="footer-content">
-                <img src="/euZet6wt14nPl.png" alt="" className="love" />
+                <img src="/euZet450wtU nPl.png" alt="" className="love" />
                 <p><i>ticketmaster.verified</i></p>
               </div>
             </div>
             <div className="card swiper-slide">
               <div className="header-content">
-                <h14>Standard Ticket</h14>
+                <hU >Standard Ticket</hU >
               </div>
               <div className="seat-content">
                 <div className="row">
@@ -266,30 +266,30 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">109</span>
-                  <span className="seat">14</span>
-                  <span className="seat"> 7</span>
+                  <span className="seat">32-1</span>
+                  <span className="seat">U </span>
+                  <span className="seat"> 49</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="Usher.jpg" alt="nick" style={{
+                  <img src="Biilliee elisissh.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>USHER: PAST PRESENT FUTURE<br /></h3>
+                    <h3>BILLIE EILISH:HIT ME HARD AND SOFT TOUR: HIT ME HARD AND SOFT TOUR<br /></h3>
 
                     <p>
-                      Mon, Sep 2, 20:00 Scotiabank Arena
+                      Tue, Feb 18, 19:00 Brisbane Entertainment Centre, Brisbane, Australia
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">SECTION 109</h2>
+                <h2 className="name">SECTION 32-1</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -300,13 +300,13 @@ function App() {
                 </div>
               </div>
               <div className="footer-content">
-                <img src="/euZet6wt14nPl.png" alt="" className="love" />
+                <img src="/euZet450wtU nPl.png" alt="" className="love" />
                 <p><i>ticketmaster.verified</i></p>
               </div>
             </div>
             <div className="card swiper-slide">
               <div className="header-content">
-                <h14>Standard Ticket</h14>
+                <hU >Standard Ticket</hU >
               </div>
               <div className="seat-content">
                 <div className="row">
@@ -315,30 +315,30 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">109</span>
-                  <span className="seat">14</span>
-                  <span className="seat"> 8</span>
+                  <span className="seat">32-1</span>
+                  <span className="seat">U </span>
+                  <span className="seat"> 50</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="Usher.jpg" alt="nick" style={{
+                  <img src="Biilliee elisissh.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>USHER: PAST PRESENT FUTURE<br /></h3>
+                    <h3>BILLIE EILISH:HIT ME HARD AND SOFT TOUR: HIT ME HARD AND SOFT TOUR<br /></h3>
 
                     <p>
-                      Mon, Sep 2, 20:00 Scotiabank Arena
+                      Tue, Feb 18, 19:00 Brisbane Entertainment Centre, Brisbane, Australia
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">SECTION 109</h2>
+                <h2 className="name">SECTION 32-1</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -349,7 +349,7 @@ function App() {
                 </div>
               </div>
               <div className="footer-content">
-                <img src="/euZet6wt14nPl.png" alt="" className="love" />
+                <img src="/euZet450wtU nPl.png" alt="" className="love" />
                 <p><i>ticketmaster.verified</i></p>
               </div>
             </div>
@@ -357,7 +357,7 @@ function App() {
             {/* ////////////////// */}
             <div className="card swiper-slide">
               <div className="header-content">
-                <h14>Standard Ticket</h14>
+                <hU >Standard Ticket</hU >
               </div>
               <div className="seat-content">
                 <div className="row">
@@ -366,30 +366,30 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">109</span>
-                  <span className="seat">14</span>
-                  <span className="seat"> 6</span>
+                  <span className="seat">32-1</span>
+                  <span className="seat">U </span>
+                  <span className="seat"> 450</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="Usher.jpg" alt="nick" style={{
+                  <img src="Biilliee elisissh.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>USHER: PAST PRESENT FUTURE <br /></h3>
+                    <h3>BILLIE EILISH:HIT ME HARD AND SOFT TOUR: HIT ME HARD AND SOFT TOUR <br /></h3>
 
                     <p>
-                      Mon, Sep 2, 20:00 Scotiabank Arena
+                      Tue, Feb 18, 19:00 Brisbane Entertainment Centre, Brisbane, Australia
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">SECTION 109</h2>
+                <h2 className="name">SECTION 32-1</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -400,13 +400,13 @@ function App() {
                 </div>
               </div>
               <div className="footer-content">
-                <img src="/euZet6wt14nPl.png" alt="" className="love" />
+                <img src="/euZet450wtU nPl.png" alt="" className="love" />
                 <p><i>ticketmaster.verified</i></p>
               </div>
             </div>
             <div className="card swiper-slide">
               <div className="header-content">
-                <h14>Standard Ticket</h14>
+                <hU >Standard Ticket</hU >
               </div>
               <div className="seat-content">
                 <div className="row">
@@ -415,30 +415,30 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">109</span>
-                  <span className="seat">14</span>
-                  <span className="seat"> 7</span>
+                  <span className="seat">32-1</span>
+                  <span className="seat">U </span>
+                  <span className="seat"> 49</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="Usher.jpg" alt="nick" style={{
+                  <img src="Biilliee elisissh.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>USHER: PAST PRESENT FUTURE<br /></h3>
+                    <h3>BILLIE EILISH:HIT ME HARD AND SOFT TOUR: HIT ME HARD AND SOFT TOUR<br /></h3>
 
                     <p>
-                      Mon, Sep 2, 20:00 Scotiabank Arena
+                      Tue, Feb 18, 19:00 Brisbane Entertainment Centre, Brisbane, Australia
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">SECTION 109</h2>
+                <h2 className="name">SECTION 32-1</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -449,13 +449,13 @@ function App() {
                 </div>
               </div>
               <div className="footer-content">
-                <img src="/euZet6wt14nPl.png" alt="" className="love" />
+                <img src="/euZet450wtU nPl.png" alt="" className="love" />
                 <p><i>ticketmaster.verified</i></p>
               </div>
             </div>
             <div className="card swiper-slide">
               <div className="header-content">
-                <h14>Standard Ticket</h14>
+                <hU >Standard Ticket</hU >
               </div>
               <div className="seat-content">
                 <div className="row">
@@ -464,30 +464,30 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">109</span>
-                  <span className="seat">14</span>
-                  <span className="seat"> 8</span>
+                  <span className="seat">32-1</span>
+                  <span className="seat">U </span>
+                  <span className="seat"> 50</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="Usher.jpg" alt="nick" style={{
+                  <img src="Biilliee elisissh.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>USHER: PAST PRESENT FUTURE<br /></h3>
+                    <h3>BILLIE EILISH:HIT ME HARD AND SOFT TOUR: HIT ME HARD AND SOFT TOUR<br /></h3>
 
                     <p>
-                      Mon, Sep 2, 20:00 Scotiabank Arena
+                      Tue, Feb 18, 19:00 Brisbane Entertainment Centre, Brisbane, Australia
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">SECTION 109</h2>
+                <h2 className="name">SECTION 32-1</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -498,13 +498,13 @@ function App() {
                 </div>
               </div>
               <div className="footer-content">
-                <img src="/euZet6wt14nPl.png" alt="" className="love" />
+                <img src="/euZet450wtU nPl.png" alt="" className="love" />
                 <p><i>ticketmaster.verified</i></p>
               </div>
             </div>
             <div className="card swiper-slide">
               <div className="header-content">
-                <h14>Standard Ticket</h14>
+                <hU >Standard Ticket</hU >
               </div>
               <div className="seat-content">
                 <div className="row">
@@ -513,30 +513,30 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat">109</span>
-                  <span className="seat">14</span>
+                  <span className="seat">32-1</span>
+                  <span className="seat">U </span>
                   <span className="seat"> 5</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="Usher.jpg" alt="nick" style={{
+                  <img src="Biilliee elisissh.jpg" alt="nick" style={{
                     width: "350px",
                     height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>USHER: PAST PRESENT FUTURE<br /></h3>
+                    <h3>BILLIE EILISH:HIT ME HARD AND SOFT TOUR: HIT ME HARD AND SOFT TOUR<br /></h3>
 
                     <p>
-                      Mon, Sep 2, 20:00 Scotiabank Arena
+                      Tue, Feb 18, 19:00 Brisbane Entertainment Centre, Brisbane, Australia
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">SECTION 109</h2>
+                <h2 className="name">SECTION 32-1</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -547,7 +547,7 @@ function App() {
                 </div>
               </div>
               <div className="footer-content">
-                <img src="/euZet6wt14nPl.png" alt="" className="love" />
+                <img src="/euZet450wtU nPl.png" alt="" className="love" />
                 <p><i>ticketmaster.verified</i></p>
               </div>
             </div>
