@@ -72,7 +72,7 @@ function App() {
                 <div className="row1">  
                   <span className="seat">32-1</span>
                   <span className="seat">U </span>
-                  <span className="seat"> 450</span>
+                  <span className="seat"> 48</span>
                 </div>
               </div>
               <div className="image-content">
@@ -104,7 +104,7 @@ function App() {
                 </div>
               </div>
               <div className="footer-content">
-                <img src="/euZet450wtU nPl.png" alt="" className="love" />
+                <img src="/euZet48wtU nPl.png" alt="" className="love" />
                 <p><i>ticketmaster.verified</i></p>
               </div>
             </div>
@@ -153,7 +153,7 @@ function App() {
                 </div>
               </div>
               <div className="footer-content">
-                <img src="/euZet450wtU nPl.png" alt="" className="love" />
+                <img src="/euZet48wtU nPl.png" alt="" className="love" />
                 <p><i>ticketmaster.verified</i></p>
               </div>
             </div>
@@ -202,7 +202,7 @@ function App() {
                 </div>
               </div>
               <div className="footer-content">
-                <img src="/euZet450wtU nPl.png" alt="" className="love" />
+                <img src="/euZet48wtU nPl.png" alt="" className="love" />
                 <p><i>ticketmaster.verified</i></p>
               </div>
             </div>
@@ -219,7 +219,7 @@ function App() {
                 <div className="row1">
                   <span className="seat">32-1</span>
                   <span className="seat">U </span>
-                  <span className="seat"> 450</span>
+                  <span className="seat"> 48</span>
                 </div>
               </div>
               <div className="image-content">
@@ -251,7 +251,7 @@ function App() {
                 </div>
               </div>
               <div className="footer-content">
-                <img src="/euZet450wtU nPl.png" alt="" className="love" />
+                <img src="/euZet48wtU nPl.png" alt="" className="love" />
                 <p><i>ticketmaster.verified</i></p>
               </div>
             </div>
@@ -300,7 +300,7 @@ function App() {
                 </div>
               </div>
               <div className="footer-content">
-                <img src="/euZet450wtU nPl.png" alt="" className="love" />
+                <img src="/euZet48wtU nPl.png" alt="" className="love" />
                 <p><i>ticketmaster.verified</i></p>
               </div>
             </div>
@@ -349,7 +349,7 @@ function App() {
                 </div>
               </div>
               <div className="footer-content">
-                <img src="/euZet450wtU nPl.png" alt="" className="love" />
+                <img src="/euZet48wtU nPl.png" alt="" className="love" />
                 <p><i>ticketmaster.verified</i></p>
               </div>
             </div>
@@ -368,7 +368,7 @@ function App() {
                 <div className="row1">
                   <span className="seat">32-1</span>
                   <span className="seat">U </span>
-                  <span className="seat"> 450</span>
+                  <span className="seat"> 48</span>
                 </div>
               </div>
               <div className="image-content">
@@ -400,7 +400,7 @@ function App() {
                 </div>
               </div>
               <div className="footer-content">
-                <img src="/euZet450wtU nPl.png" alt="" className="love" />
+                <img src="/euZet48wtU nPl.png" alt="" className="love" />
                 <p><i>ticketmaster.verified</i></p>
               </div>
             </div>
@@ -449,7 +449,7 @@ function App() {
                 </div>
               </div>
               <div className="footer-content">
-                <img src="/euZet450wtU nPl.png" alt="" className="love" />
+                <img src="/euZet48wtU nPl.png" alt="" className="love" />
                 <p><i>ticketmaster.verified</i></p>
               </div>
             </div>
@@ -498,7 +498,7 @@ function App() {
                 </div>
               </div>
               <div className="footer-content">
-                <img src="/euZet450wtU nPl.png" alt="" className="love" />
+                <img src="/euZet48wtU nPl.png" alt="" className="love" />
                 <p><i>ticketmaster.verified</i></p>
               </div>
             </div>
@@ -547,7 +547,7 @@ function App() {
                 </div>
               </div>
               <div className="footer-content">
-                <img src="/euZet450wtU nPl.png" alt="" className="love" />
+                <img src="/euZet48wtU nPl.png" alt="" className="love" />
                 <p><i>ticketmaster.verified</i></p>
               </div>
             </div>
